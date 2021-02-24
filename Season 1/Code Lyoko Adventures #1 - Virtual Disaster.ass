@@ -17,7 +17,8 @@ Style: 720P-sgsm-33,更纱黑体 SC Semibold,33,&H00FFFFFF,&H80ACB64D,&H5A000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:04.98,720P-sgsm-42,,0,0,0,,{\blur4}{\pos(480,670)}虚幻勇士 虚拟灾难\N由özberk özen制作\N中文字幕由熙洛Chincode制作\N翻译：jky，Albeta
+Dialogue: 0,0:00:00.00,0:00:04.98,720P-sgsm-42,,0,0,0,,{\blur4}{\pos(10,225)\an7\fs35}虚幻勇士冒险 S1E01 虚拟灾难\N由özberk özen制作\N
+Dialogue: 0,0:00:00.00,0:00:04.98,720P-sgsm-42,,0,0,0,,{\blur4}{\pos(550,215)\an7\fs30}中文字幕由熙洛Chincode制作\N翻译：jky，Albeta\N视频来源：{\fs28}youtu.be/ZvuByaOZ7WA
 Dialogue: 0,0:00:23.08,0:00:25.08,720P-sgsm-42,,0,0,0,,{\blur4}小心 Aelita！在你身后
 Dialogue: 0,0:00:27.22,0:00:29.22,720P-sgsm-42,,0,0,0,,{\blur4}Aelita！
 Dialogue: 0,0:00:31.30,0:00:36.30,720P-sgsm-42,,0,0,0,,{\blur4}Aelita(A)：谢谢你\NUlrich(U)：没事的 公主

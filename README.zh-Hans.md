@@ -4,6 +4,8 @@
 
 由熙洛制作的虚幻勇士冒险中文字幕。
 
+虚幻勇士冒险系列视频由[özberk özen](https://www.youtube.com/channel/UCZudDXXHMTzEeIZXr-eaB_w)制作。
+
 ## 目录
 
 1. [许可](#许可)
@@ -24,6 +26,8 @@
 视频 | 字幕
 --- | ---
 [S1E01 虚拟灾难](https://youtu.be/v=ZvuByaOZ7WA) | [S1E01 虚拟灾难](Season%201/Code%20Lyoko%20Adventures%20%231%20-%20Virtual%20Disaster.ass)
+[S1E02 虚拟战争](https://youtu.be/v=2fLtfd1Yr0A) | [S1E02 虚拟战争](Season%201/Code%20Lyoko%20Adventures%20%232%20-%20Virtual%20War.ass)
+[S1E03 战争](https://youtu.be/v=UhxB5ydTxos) | [S1E03 战争](Season%201/Code%20Lyoko%20Adventures%20%233%20-%20The%20War.ass)
 
 ## 从github下载单独的文件或者文件夹
 

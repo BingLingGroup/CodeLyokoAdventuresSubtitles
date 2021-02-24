@@ -16,9 +16,9 @@ Style: 720P-sgsm-33,更纱黑体 SC Semibold,33,&H00FFFFFF,&H80ACB64D,&H5A000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.00,0:00:03.38,720P-sgsm-42,,0,0,0,,{\blur4\pos(60,270)\an1}虚幻勇士 虚拟战争
+Dialogue: 0,0:00:00.00,0:00:03.38,720P-sgsm-42,,0,0,0,,{\blur4\pos(180,310)\an2}虚幻勇士冒险 S1E02 \N虚拟战争
 Dialogue: 0,0:00:00.00,0:00:03.38,720P-sgsm-42,,0,0,0,,{\blur4\pos(770,270)\an1}由özberk özen制作
-Dialogue: 0,0:00:00.00,0:00:03.38,720P-sgsm-42,,0,0,0,,{\blur4}中文字幕由熙洛Chincode制作，翻译：jky，Albeta
+Dialogue: 0,0:00:00.00,0:00:03.38,720P-sgsm-42,,0,0,0,,{\blur4}中文字幕由熙洛Chincode制作，翻译：jky，Albeta\N{\fs35}视频来源：https://youtu.be/2fLtfd1Yr0A
 Dialogue: 0,0:00:15.50,0:00:18.50,720P-sgsm-42,,0,0,0,,{\blur4}续上集\NAelita(A)：我有一个摧毁XANA的计划
 Dialogue: 0,0:00:18.50,0:00:21.50,720P-sgsm-42,,0,0,0,,{\blur4}Odd(O)：公主 是什么计划？
 Dialogue: 0,0:00:21.50,0:00:24.50,720P-sgsm-42,,0,0,0,,{\blur4}使用Jeremy的多代系统

@@ -4,6 +4,8 @@
 
 Code Lyoko Adventures Chinese Subtitles made by Chincode.
 
+Code Lyoko Adventures Series is made by [özberk özen](https://www.youtube.com/channel/UCZudDXXHMTzEeIZXr-eaB_w).
+
 ## TOC
 
 1. [LICENSE](#LICENSE)
@@ -24,6 +26,8 @@ Code Lyoko Adventures Chinese Subtitles made by Chincode.
 Video | Chinese Subtitles
 --- | ---
 [S1E01 Virtual Disaster](https://youtu.be/v=ZvuByaOZ7WA) | [S1E01 Virtual Disaster](Season%201/Code%20Lyoko%20Adventures%20%231%20-%20Virtual%20Disaster.ass)
+[S1E02 Virtual War](https://youtu.be/v=2fLtfd1Yr0A) | [S1E02 Virtual War](Season%201/Code%20Lyoko%20Adventures%20%232%20-%20Virtual%20War.ass)
+[S1E03 The War](https://youtu.be/v=UhxB5ydTxos) | [S1E03 The War](Season%201/Code%20Lyoko%20Adventures%20%233%20-%20The%20War.ass)
 
 ## Download single file or directory from github
 
