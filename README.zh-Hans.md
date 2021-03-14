@@ -28,6 +28,8 @@
 [S1E01 虚拟灾难](https://youtu.be/v=ZvuByaOZ7WA) | [S1E01 虚拟灾难](Season%201/Code%20Lyoko%20Adventures%20%231%20-%20Virtual%20Disaster.ass)
 [S1E02 虚拟战争](https://youtu.be/v=2fLtfd1Yr0A) | [S1E02 虚拟战争](Season%201/Code%20Lyoko%20Adventures%20%232%20-%20Virtual%20War.ass)
 [S1E03 战争](https://youtu.be/v=UhxB5ydTxos) | [S1E03 战争](Season%201/Code%20Lyoko%20Adventures%20%233%20-%20The%20War.ass)
+[S1E04 记忆](https://youtu.be/v=JfU_j_y9Og0) | [S1E04 记忆](Season%201/Code%20Lyoko%20Adventures%20%234%20-%20Memory.ass)
+[S1E05 监狱](https://youtu.be/v=UhxB5ydTxos) | [S1E05 监狱](Season%201/Code%20Lyoko%20Adventures%20%234%20-%20Prison.ass)
 
 ## 从github下载单独的文件或者文件夹
 
