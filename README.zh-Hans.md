@@ -29,7 +29,9 @@
 [S1E02 虚拟战争](https://youtu.be/v=2fLtfd1Yr0A) | [S1E02 虚拟战争](Season%201/Code%20Lyoko%20Adventures%20%232%20-%20Virtual%20War.ass)
 [S1E03 战争](https://youtu.be/v=UhxB5ydTxos) | [S1E03 战争](Season%201/Code%20Lyoko%20Adventures%20%233%20-%20The%20War.ass)
 [S1E04 记忆](https://youtu.be/v=JfU_j_y9Og0) | [S1E04 记忆](Season%201/Code%20Lyoko%20Adventures%20%234%20-%20Memory.ass)
-[S1E05 监狱](https://youtu.be/v=UhxB5ydTxos) | [S1E05 监狱](Season%201/Code%20Lyoko%20Adventures%20%234%20-%20Prison.ass)
+[S1E05 监狱](https://youtu.be/v=UhxB5ydTxos) | [S1E05 监狱](Season%201/Code%20Lyoko%20Adventures%20%235%20-%20Prison.ass)
+[S1E06 父亲](https://youtu.be/v=SICp1LjoL64) | [S1E06 父亲](Season%201/Code%20Lyoko%20Adventures%20%236%20-%20Father.ass)
+[S1E07 圆塔](https://youtu.be/v=UhxB5ydTxos) | [S1E07 圆塔](Season%201/Code%20Lyoko%20Adventures%20%237%20-%20Tower.ass)
 
 ## 从github下载单独的文件或者文件夹
 
