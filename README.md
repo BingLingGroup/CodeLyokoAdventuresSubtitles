@@ -29,9 +29,10 @@ Video | Chinese Subtitles
 [S1E02 Virtual War](https://youtu.be/v=2fLtfd1Yr0A) | [S1E02 Virtual War](Season%201/Code%20Lyoko%20Adventures%20%232%20-%20Virtual%20War.ass)
 [S1E03 The War](https://youtu.be/v=UhxB5ydTxos) | [S1E03 The War](Season%201/Code%20Lyoko%20Adventures%20%233%20-%20The%20War.ass)
 [S1E04 Memory](https://youtu.be/v=JfU_j_y9Og0) | [S1E04 Memory](Season%201/Code%20Lyoko%20Adventures%20%234%20-%20Memory.ass)
-[S1E05 Prison](https://youtu.be/v=UhxB5ydTxos) | [S1E05 Prison](Season%201/Code%20Lyoko%20Adventures%20%235%20-%20Prison.ass)
+[S1E05 Prison](https://youtu.be/v=j0CtXBRjZDE) | [S1E05 Prison](Season%201/Code%20Lyoko%20Adventures%20%235%20-%20Prison.ass)
 [S1E06 Father](https://youtu.be/v=SICp1LjoL64) | [S1E06 Father](Season%201/Code%20Lyoko%20Adventures%20%236%20-%20Father.ass)
-[S1E07 Tower](https://youtu.be/v=UhxB5ydTxos) | [S1E07 Tower](Season%201/Code%20Lyoko%20Adventures%20%237%20-%20Tower.ass)
+[S1E07 Tower](https://youtu.be/v=EG8ZuMLIZqE) | [S1E07 Tower](Season%201/Code%20Lyoko%20Adventures%20%237%20-%20Tower.ass)
+[S1E08 Secret](https://youtu.be/v=y8eLuV-0bZ0) | [S1E08 Secret](Season%201/Code%20Lyoko%20Adventures%20%238%20-%20Secret.ass)
 
 ## Download single file or directory from github
 
