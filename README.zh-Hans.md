@@ -34,6 +34,7 @@
 [S1E07 圆塔](https://youtu.be/v=EG8ZuMLIZqE) | [S1E07 圆塔](Season%201/Code%20Lyoko%20Adventures%20%237%20-%20Tower.ass)
 [S1E08 秘密](https://youtu.be/v=y8eLuV-0bZ0) | [S1E08 秘密](Season%201/Code%20Lyoko%20Adventures%20%238%20-%20Secret.ass)
 [S1E09 战士](https://youtu.be/v=TimSnIrW97I) | [S1E09 战士](Season%201/Code%20Lyoko%20Adventures%20%239%20-%20Warrior.ass)
+[S1E10 代码 Franz](https://youtu.be/v=zlseSD4--wE) | [S1E10 代码 Franz](Season%201/Code%20Lyoko%20Adventures%20%2310%20-%20Code%20Franz%20-%20Season%20Finale.ass)
 
 ## 从github下载单独的文件或者文件夹
 
