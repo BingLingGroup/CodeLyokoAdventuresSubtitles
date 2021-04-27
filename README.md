@@ -35,6 +35,7 @@ Video | Chinese Subtitles
 [S1E08 Secret](https://youtu.be/v=y8eLuV-0bZ0) | [S1E08 Secret](Season%201/Code%20Lyoko%20Adventures%20%238%20-%20Secret.ass)
 [S1E09 Warrior](https://youtu.be/v=TimSnIrW97I) | [S1E09 Warrior](Season%201/Code%20Lyoko%20Adventures%20%239%20-%20Warrior.ass)
 [S1E10 Code Franz](https://youtu.be/v=zlseSD4--wE) | [S1E10 Code Franz](Season%201/Code%20Lyoko%20Adventures%20%2310%20-%20Code%20Franz%20-%20Season%20Finale.ass)
+[S2E01 Anthea](https://youtu.be/6_uFIw6DIFE) | [S2E01 Anthea](Season%202/Code%20Lyoko%20Adventures%20S2E1%20-%20Anthea.ass)
 
 ## Download single file or directory from github
 

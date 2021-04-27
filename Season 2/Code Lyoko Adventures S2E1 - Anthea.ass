@@ -69,9 +69,9 @@ Dialogue: 0,0:00:54.50,0:00:55.90,1080P-sgsm-63,,0,0,0,,{\blur4}我非常爱你
 Dialogue: 0,0:00:56.14,0:00:57.82,1080P-sgbd-42,,0,0,0,,{\blur4}I love you too honey.
 Dialogue: 0,0:00:56.14,0:00:57.82,1080P-sgsm-63,,0,0,0,,{\blur4}我也爱你 亲爱的
 Dialogue: 0,0:00:58.35,0:01:00.14,1080P-sgbd-42,,0,0,0,,{\blur4}Which name should we give to our daughter.
-Dialogue: 0,0:00:58.35,0:01:00.14,1080P-sgsm-63,,0,0,0,,{\blur4}我们应该给我们的女儿取什么名字
+Dialogue: 0,0:00:58.35,0:01:00.14,1080P-sgsm-63,,0,0,0,,{\blur4}我们应该给我们的女儿取个什么名字呢
 Dialogue: 0,0:01:00.71,0:01:04.08,1080P-sgbd-42,,0,0,0,,{\blur4}I have the perfect name for her, Aelita.
-Dialogue: 0,0:01:00.71,0:01:04.08,1080P-sgsm-63,,0,0,0,,{\blur4}我有一个完美的名字 Aelita
+Dialogue: 0,0:01:00.71,0:01:04.08,1080P-sgsm-63,,0,0,0,,{\blur4}我想到了一个完美的名字 Aelita
 Dialogue: 0,0:01:16.70,0:01:20.03,1080P-sgbd-42,,0,0,0,,{\blur4}Oh my God look at her Waldo.
 Dialogue: 0,0:01:16.70,0:01:20.03,1080P-sgsm-63,,0,0,0,,{\blur4}哦 我的天哪 看看她 Waldo
 Dialogue: 0,0:01:20.79,0:01:23.54,1080P-sgbd-42,,0,0,0,,{\blur4}She's so so beautiful.
@@ -81,7 +81,7 @@ Dialogue: 0,0:01:24.38,0:01:26.65,1080P-sgsm-63,,0,0,0,,{\blur4}恩 她就像你
 Dialogue: 0,0:01:28.48,0:01:30.59,1080P-sgbd-42,,0,0,0,,{\blur4}She will be a princess when she grows up.
 Dialogue: 0,0:01:28.48,0:01:30.59,1080P-sgsm-63,,0,0,0,,{\blur4}她长大后会成为一个公主
 Dialogue: 0,0:01:31.06,0:01:33.13,1080P-sgbd-42,,0,0,0,,{\blur4}She will have the perfect life.
-Dialogue: 0,0:01:31.06,0:01:33.13,1080P-sgsm-63,,0,0,0,,{\blur4}她会有完美的生活
+Dialogue: 0,0:01:31.06,0:01:33.13,1080P-sgsm-63,,0,0,0,,{\blur4}她会有完美的人生
 Dialogue: 0,0:01:44.54,0:01:48.61,1080P-sgbd-42,,0,0,0,,{\blur4}Aelita just fell asleep and the terrible snowstorm just started.
 Dialogue: 0,0:01:44.54,0:01:48.61,1080P-sgsm-63,,0,0,0,,{\blur4}Aelita刚刚睡着 而可怕的暴风雪刚刚开始
 Dialogue: 0,0:01:49.41,0:01:51.30,1080P-sgbd-42,,0,0,0,,{\blur4}What are you working on, dear?
@@ -89,11 +89,11 @@ Dialogue: 0,0:01:49.41,0:01:51.30,1080P-sgsm-63,,0,0,0,,{\blur4}你在做什么 
 Dialogue: 0,0:01:52.06,0:01:54.62,1080P-sgbd-42,,0,0,0,,{\blur4}I just bought an old factory in France.
 Dialogue: 0,0:01:52.06,0:01:54.62,1080P-sgsm-63,,0,0,0,,{\blur4}我刚刚在法国买了一个旧工厂
 Dialogue: 0,0:01:55.29,0:01:57.46,1080P-sgbd-42,,0,0,0,,{\blur4}Oh sounds great but why.
-Dialogue: 0,0:01:55.29,0:01:57.46,1080P-sgsm-63,,0,0,0,,{\blur4}哦 听起来不错 但为什么呢？
+Dialogue: 0,0:01:55.29,0:01:57.46,1080P-sgsm-63,,0,0,0,,{\blur4}哦 听起来不错 但为什么要买呢？
 Dialogue: 0,0:01:58.14,0:02:00.66,1080P-sgbd-42,,0,0,0,,{\blur4}To invest in our daughter's future.
 Dialogue: 0,0:01:58.14,0:02:00.66,1080P-sgsm-63,,0,0,0,,{\blur4}为了给我们女儿的未来投资
 Dialogue: 0,0:02:03.75,0:02:06.73,1080P-sgbd-42,,0,0,0,,{\blur4}Waldo please tell me this isn't about project Carthage.
-Dialogue: 0,0:02:03.75,0:02:06.73,1080P-sgsm-63,,0,0,0,,{\blur4}Waldo 请告诉我这不是有关迦太基项目的
+Dialogue: 0,0:02:03.75,0:02:06.73,1080P-sgsm-63,,0,0,0,,{\blur4}Waldo 请告诉我这不是有关迦太基计划的
 Dialogue: 0,0:02:08.90,0:02:10.31,1080P-sgbd-42,,0,0,0,,{\blur4}Waldo don't you there.
 Dialogue: 0,0:02:08.90,0:02:10.31,1080P-sgsm-63,,0,0,0,,{\blur4}Waldo 你不要去那里
 Dialogue: 0,0:02:10.65,0:02:11.98,1080P-sgbd-42,,0,0,0,,{\blur4}You know they are dangerous.
@@ -115,11 +115,11 @@ Dialogue: 0,0:02:27.23,0:02:28.43,1080P-sgsm-63,,0,0,0,,{\blur4}请冷静下来
 Dialogue: 0,0:02:29.30,0:02:30.30,1080P-sgbd-42,,0,0,0,,{\blur4}I am so tired.
 Dialogue: 0,0:02:29.30,0:02:30.30,1080P-sgsm-63,,0,0,0,,{\blur4}我太累了
 Dialogue: 0,0:02:30.50,0:02:32.43,1080P-sgbd-42,,0,0,0,,{\blur4}Let's let's get to sleep.
-Dialogue: 0,0:02:30.50,0:02:32.43,1080P-sgsm-63,,0,0,0,,{\blur4}让我们去睡觉吧
+Dialogue: 0,0:02:30.50,0:02:32.43,1080P-sgsm-63,,0,0,0,,{\blur4}我们去睡觉吧
 Dialogue: 0,0:02:52.33,0:02:53.32,1080P-sgbd-42,,0,0,0,,{\blur4}Aelita's so sleepy
 Dialogue: 0,0:02:52.33,0:02:53.32,1080P-sgsm-63,,0,0,0,,{\blur4}Aelita很困了
 Dialogue: 0,0:02:53.44,0:02:56.18,1080P-sgbd-42,,0,0,0,,{\blur4}and I will go to the village to send the rest of the papers.
-Dialogue: 0,0:02:53.44,0:02:56.18,1080P-sgsm-63,,0,0,0,,{\blur4}而我要去村里把剩下的文件送走
+Dialogue: 0,0:02:53.44,0:02:56.18,1080P-sgsm-63,,0,0,0,,{\blur4}我要去村里把剩下的文件送走
 Dialogue: 0,0:02:57.10,0:02:58.35,1080P-sgbd-42,,0,0,0,,{\blur4}What about breakfast?
 Dialogue: 0,0:02:57.10,0:02:58.35,1080P-sgsm-63,,0,0,0,,{\blur4}早餐怎么办？
 Dialogue: 0,0:02:59.43,0:03:01.45,1080P-sgbd-42,,0,0,0,,{\blur4}I will have it when I get back home.
@@ -133,11 +133,11 @@ Dialogue: 0,0:03:29.67,0:03:31.50,1080P-sgsm-63,,0,0,0,,{\blur4}来吧 到妈妈
 Dialogue: 0,0:03:31.71,0:03:34.39,1080P-sgbd-42,,0,0,0,,{\blur4}Oh you made it sweet heart.
 Dialogue: 0,0:03:31.71,0:03:34.39,1080P-sgsm-63,,0,0,0,,{\blur4}哦 你成功了 亲爱的
 Dialogue: 0,0:03:40.28,0:03:42.76,1080P-sgbd-42,,0,0,0,,{\blur4}Okay now smile to the camera.
-Dialogue: 0,0:03:40.28,0:03:42.76,1080P-sgsm-63,,0,0,0,,{\blur4}好了 现在对着镜头微笑
+Dialogue: 0,0:03:40.28,0:03:42.76,1080P-sgsm-63,,0,0,0,,{\blur4}好了 现在对着镜头笑一个
 Dialogue: 0,0:03:54.20,0:03:56.91,1080P-sgbd-42,,0,0,0,,{\blur4}And this ship crossed all the stormy oceans.
-Dialogue: 0,0:03:54.20,0:03:56.91,1080P-sgsm-63,,0,0,0,,{\blur4}这艘船渡过了所有刮着暴风雨的海洋
+Dialogue: 0,0:03:54.20,0:03:56.91,1080P-sgsm-63,,0,0,0,,{\blur4}这艘船渡过了所有下着暴风雨的海洋
 Dialogue: 0,0:03:57.66,0:04:01.18,1080P-sgbd-42,,0,0,0,,{\blur4}This ship was called Skidbladnir.
-Dialogue: 0,0:03:57.66,0:04:01.18,1080P-sgsm-63,,0,0,0,,{\blur4}这艘船被称为Skidbladnir
+Dialogue: 0,0:03:57.66,0:04:01.18,1080P-sgsm-63,,0,0,0,,{\blur4}这艘船的名字叫Skidbladnir
 Dialogue: 0,0:04:10.31,0:04:12.42,1080P-sgbd-42,,0,0,0,,{\blur4}Oh oh he's so cute.
 Dialogue: 0,0:04:10.31,0:04:12.42,1080P-sgsm-63,,0,0,0,,{\blur4}哦 哦 他是如此可爱
 Dialogue: 0,0:04:12.45,0:04:13.92,1080P-sgbd-42,,0,0,0,,{\blur4}How should I call him.
@@ -157,7 +157,7 @@ Dialogue: 0,0:04:25.57,0:04:26.75,1080P-sgsm-63,,0,0,0,,{\blur4}我爱你爸爸
 Dialogue: 0,0:04:29.06,0:04:30.42,1080P-sgbd-42,,0,0,0,,{\blur4}It's like maths.
 Dialogue: 0,0:04:29.06,0:04:30.42,1080P-sgsm-63,,0,0,0,,{\blur4}这就像数学
 Dialogue: 0,0:04:30.78,0:04:31.82,1080P-sgbd-42,,0,0,0,,{\blur4}Let me show you.
-Dialogue: 0,0:04:30.78,0:04:31.82,1080P-sgsm-63,,0,0,0,,{\blur4}让我给你看
+Dialogue: 0,0:04:30.78,0:04:31.82,1080P-sgsm-63,,0,0,0,,{\blur4}让我给你演示一下
 Dialogue: 0,0:04:32.00,0:04:35.76,1080P-sgbd-42,,0,0,0,,{\blur4}Twinkle twinkle little star.
 Dialogue: 0,0:04:32.00,0:04:35.76,1080P-sgsm-63,,0,0,0,,{\blur4}一闪一闪亮晶晶
 Dialogue: 0,0:04:35.85,0:04:39.64,1080P-sgbd-42,,0,0,0,,{\blur4}How I wonder what you are.
@@ -165,13 +165,13 @@ Dialogue: 0,0:04:35.85,0:04:39.64,1080P-sgsm-63,,0,0,0,,{\blur4}满天都是小�
 Dialogue: 0,0:04:52.96,0:04:54.47,1080P-sgbd-42,,0,0,0,,{\blur4}What are we going Daddy?
 Dialogue: 0,0:04:52.96,0:04:54.47,1080P-sgsm-63,,0,0,0,,{\blur4}我们要去哪里 爸爸？
 Dialogue: 0,0:04:55.66,0:04:58.34,1080P-sgbd-42,,0,0,0,,{\blur4}Well we're going to the frozen lake.
-Dialogue: 0,0:04:55.66,0:04:58.34,1080P-sgsm-63,,0,0,0,,{\blur4}恩 我们要去冰湖
+Dialogue: 0,0:04:55.66,0:04:58.34,1080P-sgsm-63,,0,0,0,,{\blur4}恩 我们要去结冰的湖面上
 Dialogue: 0,0:04:59.45,0:05:02.38,1080P-sgbd-42,,0,0,0,,{\blur4}Wow but why are we going there?
 Dialogue: 0,0:04:59.45,0:05:02.38,1080P-sgsm-63,,0,0,0,,{\blur4}哇 但我们为什么要去那里？
 Dialogue: 0,0:05:03.43,0:05:05.94,1080P-sgbd-42,,0,0,0,,{\blur4}Because today we will skate.
 Dialogue: 0,0:05:03.43,0:05:05.94,1080P-sgsm-63,,0,0,0,,{\blur4}因为今天我们要滑冰
 Dialogue: 0,0:05:07.48,0:05:10.24,1080P-sgbd-42,,0,0,0,,{\blur4}What but I don't know how to skate.
-Dialogue: 0,0:05:07.48,0:05:10.24,1080P-sgsm-63,,0,0,0,,{\blur4}什么 但我不知道如何滑冰
+Dialogue: 0,0:05:07.48,0:05:10.24,1080P-sgsm-63,,0,0,0,,{\blur4}什么 但我不知道怎么滑冰
 Dialogue: 0,0:05:11.34,0:05:14.06,1080P-sgbd-42,,0,0,0,,{\blur4}And that's exactly why we are here.
 Dialogue: 0,0:05:11.34,0:05:14.06,1080P-sgsm-63,,0,0,0,,{\blur4}而这正是我们来这里的原因
 Dialogue: 0,0:05:16.84,0:05:19.90,1080P-sgbd-42,,0,0,0,,{\blur4}Aelita, darling slow down wait a second.
@@ -209,7 +209,7 @@ Dialogue: 0,0:06:38.57,0:06:39.06,1080P-sgsm-63,,0,0,0,,{\blur4}谢谢你
 Dialogue: 0,0:06:39.47,0:06:40.52,1080P-sgbd-42,,0,0,0,,{\blur4}Now let's go home.
 Dialogue: 0,0:06:39.47,0:06:40.52,1080P-sgsm-63,,0,0,0,,{\blur4}现在我们回家吧
 Dialogue: 0,0:06:43.94,0:06:45.76,1080P-sgbd-42,,0,0,0,,{\blur4}Best day ever.
-Dialogue: 0,0:06:43.94,0:06:45.76,1080P-sgsm-63,,0,0,0,,{\blur4}有史以来最好的一天
+Dialogue: 0,0:06:43.94,0:06:45.76,1080P-sgsm-63,,0,0,0,,{\blur4}真是有史以来最好的一天
 Dialogue: 0,0:06:51.94,0:06:55.30,1080P-sgbd-42,,0,0,0,,{\blur4}Well if you like it so much, we can come here more often.
 Dialogue: 0,0:06:51.94,0:06:55.30,1080P-sgsm-63,,0,0,0,,{\blur4}好吧 如果你这么喜欢的话 我们可以经常来这里
 Dialogue: 0,0:07:04.80,0:07:06.92,1080P-sgbd-42,,0,0,0,,{\blur4}Look at my giant snowball mommy.
@@ -237,15 +237,15 @@ Dialogue: 0,0:07:51.27,0:07:52.66,1080P-sgsm-63,,0,0,0,,{\blur4}抓住那个女�
 Dialogue: 0,0:07:54.12,0:07:54.55,1080P-sgbd-42,,0,0,0,,{\blur4}What?
 Dialogue: 0,0:07:54.12,0:07:54.55,1080P-sgsm-63,,0,0,0,,{\blur4}什么？
 Dialogue: 0,0:07:54.87,0:07:56.48,1080P-sgbd-42,,0,0,0,,{\blur4}Over my dead body.
-Dialogue: 0,0:07:54.87,0:07:56.48,1080P-sgsm-63,,0,0,0,,{\blur4}想都别想
+Dialogue: 0,0:07:54.87,0:07:56.48,1080P-sgsm-63,,0,0,0,,{\blur4}除非从我的尸体上迈过去
 Dialogue: 0,0:07:56.99,0:07:59.68,1080P-sgbd-42,,0,0,0,,{\blur4}Huh why not? Fine by me.
-Dialogue: 0,0:07:56.99,0:07:59.68,1080P-sgsm-63,,0,0,0,,{\blur4}呵 吃我一拳
+Dialogue: 0,0:07:56.99,0:07:59.68,1080P-sgsm-63,,0,0,0,,{\blur4}呵 是么？先吃我一拳
 Dialogue: 0,0:08:03.08,0:08:05.60,1080P-sgbd-42,,0,0,0,,{\blur4}No please. Waldo.
 Dialogue: 0,0:08:03.08,0:08:05.60,1080P-sgsm-63,,0,0,0,,{\blur4}Waldo 求你了
 Dialogue: 0,0:08:08.92,0:08:13.30,1080P-sgbd-42,,0,0,0,,{\blur4}Did you really think we wouldn't find out who's bought that old factory?
-Dialogue: 0,0:08:08.92,0:08:13.30,1080P-sgsm-63,,0,0,0,,{\blur4}你真的认为我们不会发现是谁买了那个旧工厂吗？
+Dialogue: 0,0:08:08.92,0:08:13.30,1080P-sgsm-63,,0,0,0,,{\blur4}你真以为我们不会发现是谁买了那个旧工厂吗？
 Dialogue: 0,0:08:13.66,0:08:16.30,1080P-sgbd-42,,0,0,0,,{\blur4}We knew that you would attack project Carthage
-Dialogue: 0,0:08:13.66,0:08:16.30,1080P-sgsm-63,,0,0,0,,{\blur4}我们知道你会攻击迦太基项目
+Dialogue: 0,0:08:13.66,0:08:16.30,1080P-sgsm-63,,0,0,0,,{\blur4}我们知道你想阻止迦太基计划
 Dialogue: 0,0:08:16.57,0:08:18.56,1080P-sgbd-42,,0,0,0,,{\blur4}and now we will pay with your life.
 Dialogue: 0,0:08:16.57,0:08:18.56,1080P-sgsm-63,,0,0,0,,{\blur4}而现在我们就要用你的生命来偿还
 Dialogue: 0,0:08:19.24,0:08:20.02,1080P-sgbd-42,,0,0,0,,{\blur4}Waldo.
@@ -257,19 +257,19 @@ Dialogue: 0,0:08:23.22,0:08:23.97,1080P-sgsm-63,,0,0,0,,{\blur4}爸爸
 Dialogue: 0,0:08:24.12,0:08:26.76,1080P-sgbd-42,,0,0,0,,{\blur4}Say goodbye to your family Waldo.
 Dialogue: 0,0:08:24.12,0:08:26.76,1080P-sgsm-63,,0,0,0,,{\blur4}跟你的家人说再见吧 Waldo
 Dialogue: 0,0:08:29.95,0:08:30.92,1080P-sgbd-42,,0,0,0,,{\blur4}Stop.
-Dialogue: 0,0:08:29.95,0:08:30.92,1080P-sgsm-63,,0,0,0,,{\blur4}停下来
+Dialogue: 0,0:08:29.95,0:08:30.92,1080P-sgsm-63,,0,0,0,,{\blur4}等一下！
 Dialogue: 0,0:08:32.09,0:08:34.77,1080P-sgbd-42,,0,0,0,,{\blur4}What? Why? I want to kill this traitor.
 Dialogue: 0,0:08:32.09,0:08:34.77,1080P-sgsm-63,,0,0,0,,{\blur4}什么？为什么？我想杀了这个叛徒
 Dialogue: 0,0:08:35.82,0:08:37.89,1080P-sgbd-42,,0,0,0,,{\blur4}He must suffer while he's alive.
-Dialogue: 0,0:08:35.82,0:08:37.89,1080P-sgsm-63,,0,0,0,,{\blur4}他只有在活着的时候才会受苦
+Dialogue: 0,0:08:35.82,0:08:37.89,1080P-sgsm-63,,0,0,0,,{\blur4}他只有在活着的时候才能受折磨
 Dialogue: 0,0:08:38.01,0:08:40.02,1080P-sgbd-42,,0,0,0,,{\blur4}Death is an easy escape.
-Dialogue: 0,0:08:38.01,0:08:40.02,1080P-sgsm-63,,0,0,0,,{\blur4}死亡是个容易逃脱的办法
+Dialogue: 0,0:08:38.01,0:08:40.02,1080P-sgsm-63,,0,0,0,,{\blur4}死亡是个容易解脱的办法
 Dialogue: 0,0:08:41.57,0:08:43.69,1080P-sgbd-42,,0,0,0,,{\blur4}Fine. don't forget this Franz.
-Dialogue: 0,0:08:41.57,0:08:43.69,1080P-sgsm-63,,0,0,0,,{\blur4}好吧 别忘了这个 Franz
+Dialogue: 0,0:08:41.57,0:08:43.69,1080P-sgsm-63,,0,0,0,,{\blur4}好吧 别忘了今天的事 Franz
 Dialogue: 0,0:08:43.78,0:08:48.65,1080P-sgbd-42,,0,0,0,,{\blur4}If you try to attack project Carthage again, you'll never see your daughter as well.
-Dialogue: 0,0:08:43.78,0:08:48.65,1080P-sgsm-63,,0,0,0,,{\blur4}如果你再试图攻击迦太基项目 你也将见不到你的女儿
+Dialogue: 0,0:08:43.78,0:08:48.65,1080P-sgsm-63,,0,0,0,,{\blur4}如果你再试图妨碍迦太基计划 你也会永远见不到你的女儿
 Dialogue: 0,0:08:49.39,0:08:51.58,1080P-sgbd-42,,0,0,0,,{\blur4}Come on. Let's not waste time.
-Dialogue: 0,0:08:49.39,0:08:51.58,1080P-sgsm-63,,0,0,0,,{\blur4}来吧 让我们不要再浪费时间了
+Dialogue: 0,0:08:49.39,0:08:51.58,1080P-sgsm-63,,0,0,0,,{\blur4}上车吧 我们不要再浪费时间了
 Dialogue: 0,0:08:51.64,0:08:53.82,1080P-sgbd-42,,0,0,0,,{\blur4}Enough chitchat. Let's go.
 Dialogue: 0,0:08:51.64,0:08:53.82,1080P-sgsm-63,,0,0,0,,{\blur4}闲聊够了 我们走吧
 Dialogue: 0,0:08:54.62,0:08:58.44,1080P-sgbd-42,,0,0,0,,{\blur4}Very well until next time, Waldo.
