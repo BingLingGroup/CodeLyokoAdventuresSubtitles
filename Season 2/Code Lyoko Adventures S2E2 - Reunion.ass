@@ -8,16 +8,6 @@ YCbCr Matrix: TV.709
 PlayResX: 1920
 PlayResY: 1080
 
-[Aegisub Project Garbage]
-Audio File: Code Lyoko Adventures S2E2 - Reunion.mkv
-Video File: Code Lyoko Adventures S2E2 - Reunion.mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.350000
-Scroll Position: 198
-Active Line: 228
-Video Position: 15579
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: 1080P-sgbd-42,更纱黑体 SC,42,&H00FFFFFF,&H80ACB64D,&H5A000000,&HFF000000,-1,0,0,0,100,100,0,0,1,5,0,2,10,10,10,134
@@ -130,7 +120,7 @@ Dialogue: 0,0:04:25.26,0:04:27.80,1080P-sgsm-63,,0,0,0,,阿尔法区开始自我
 Dialogue: 0,0:04:27.98,0:04:29.46,1080P-sgbd-42,,0,0,0,,{\an1}Odd, Odd, can you-
 Dialogue: 0,0:04:27.98,0:04:29.46,1080P-sgsm-63,,0,0,0,,{\an1}Odd Odd 你能-
 Dialogue: 0,0:04:29.14,0:04:30.82,1080P-sgbd-42,,0,0,0,,{\an3}Relax Einstein, I'm awake.
-Dialogue: 0,0:04:29.14,0:04:30.82,1080P-sgsm-63,,0,0,0,,{\an3}放松 爱因斯坦 我已经醒了
+Dialogue: 0,0:04:29.14,0:04:30.82,1080P-sgsm-63,,0,0,0,,{\an3}没事 爱因斯坦 我已经醒了
 Dialogue: 0,0:04:31.50,0:04:33.26,1080P-sgbd-42,,0,0,0,,I'm getting out of here right now.
 Dialogue: 0,0:04:31.50,0:04:33.26,1080P-sgsm-63,,0,0,0,,我现在要离开这里了
 Dialogue: 0,0:04:52.54,0:04:54.00,1080P-sgbd-42,,0,0,0,,Goodbye XANA!
@@ -224,7 +214,7 @@ Dialogue: 0,0:07:33.65,0:07:35.11,1080P-sgsm-63,,0,0,0,,没有时间可以浪费
 Dialogue: 0,0:07:36.30,0:07:37.44,1080P-sgbd-42,,0,0,0,,Come on. Come on.
 Dialogue: 0,0:07:36.30,0:07:37.44,1080P-sgsm-63,,0,0,0,,来吧 来吧
 Dialogue: 0,0:07:40.00,0:07:43.06,1080P-sgbd-42,,0,0,0,,That day they were there to kidnap you and kill me.
-Dialogue: 0,0:07:40.00,0:07:43.06,1080P-sgsm-63,,0,0,0,,那天 他们在那里打算绑了你 并杀了我
+Dialogue: 0,0:07:40.00,0:07:43.06,1080P-sgsm-63,,0,0,0,,那天 他们在那里打算绑了你 然后杀了我
 Dialogue: 0,0:07:43.56,0:07:45.10,1080P-sgbd-42,,0,0,0,,I'm so sorry, Aelita!
 Dialogue: 0,0:07:43.56,0:07:45.10,1080P-sgsm-63,,0,0,0,,我很抱歉 Aelita
 Dialogue: 0,0:07:45.84,0:07:48.54,1080P-sgbd-42,,0,0,0,,It's OK, father! Let's go inside!
