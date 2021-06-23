@@ -19,9 +19,9 @@ Style: 1080P-sgsm-63,更纱黑体 SC Semibold,63,&H00FFFFFF,&H80ACB64D,&H5A00000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:04.98,1080P-sgsm-50,,0,0,0,,{\an1\fs45\blur4}虚幻勇士冒险 S2E4 灾难 由özberk özen制作 \N视频来源：https://youtu.be/3Gsn0kq05pw，中文字幕由熙洛Chincode制作，翻译：jky，Albeta
 Dialogue: 0,0:01:34.44,0:01:39.19,1080P-sgbd-42,,0,0,0,,Okay Aelita. Now check the data from William's old tower.
-Dialogue: 0,0:01:34.44,0:01:39.19,1080P-sgsm-63,,0,0,0,,好的 Aelita 现在检查William的旧塔的数据
+Dialogue: 0,0:01:34.44,0:01:39.19,1080P-sgsm-63,,0,0,0,,好的 Aelita 现在检查William的旧圆塔的数据
 Dialogue: 0,0:01:39.70,0:01:44.72,1080P-sgbd-42,,0,0,0,,Roger. Although everything seems normal. Why are we checking the data Daddy?
-Dialogue: 0,0:01:39.70,0:01:44.72,1080P-sgsm-63,,0,0,0,,收到 虽然一切看起来都很正常 但为什么我们要检查爸爸的数据？
+Dialogue: 0,0:01:39.70,0:01:44.72,1080P-sgsm-63,,0,0,0,,收到 虽然一切看起来都很正常 但为什么我们要检查这些数据呢爸爸？
 Dialogue: 0,0:01:45.60,0:01:47.36,1080P-sgbd-42,,0,0,0,,To be honest, this is really bazzar.
 Dialogue: 0,0:01:45.60,0:01:47.36,1080P-sgsm-63,,0,0,0,,说实话 这真的很让人头疼
 Dialogue: 0,0:01:47.46,0:01:51.90,1080P-sgbd-42,,0,0,0,,The Super scan detect some kind of strange clone signals, and I don't like this at all
@@ -35,7 +35,7 @@ Dialogue: 0,0:01:59.49,0:02:01.65,1080P-sgsm-63,,0,0,0,,当然 他们需要检�
 Dialogue: 0,0:02:01.85,0:02:04.02,1080P-sgbd-42,,0,0,0,,The garden of the Academy? Are you sure?
 Dialogue: 0,0:02:01.85,0:02:04.02,1080P-sgsm-63,,0,0,0,,学校的花园？你确定吗？
 Dialogue: 0,0:02:04.03,0:02:08.25,1080P-sgbd-42,,0,0,0,,Yes and signals are too strong. I wonder what is XANA up to now.
-Dialogue: 0,0:02:04.03,0:02:08.25,1080P-sgsm-63,,0,0,0,,是的 而且信号太强了 我想知道XANA现在在做什么
+Dialogue: 0,0:02:04.03,0:02:08.25,1080P-sgsm-63,,0,0,0,,是的 而且信号太强了 我想知道XANA现在想干什么
 Dialogue: 0,0:02:08.55,0:02:10.44,1080P-sgbd-42,,0,0,0,,I'm sure we'll find out in no time.
 Dialogue: 0,0:02:08.55,0:02:10.44,1080P-sgsm-63,,0,0,0,,我相信我们很快就会发现的
 Dialogue: 0,0:02:10.99,0:02:14.57,1080P-sgbd-42,,0,0,0,,I hope that too sweatheart. I really hope so.
@@ -43,15 +43,15 @@ Dialogue: 0,0:02:10.99,0:02:14.57,1080P-sgsm-63,,0,0,0,,亲爱的 我也真的�
 Dialogue: 0,0:03:04.39,0:03:10.03,1080P-sgbd-42,,0,0,0,,This is horrible. School is about to start again, and we have to deal with both school and XANA
 Dialogue: 0,0:03:04.39,0:03:10.03,1080P-sgsm-63,,0,0,0,,这真是太可怕了 马上要上课了 我们必须同时处理学校和XANA的问题
 Dialogue: 0,0:03:11.52,0:03:16.45,1080P-sgbd-42,,0,0,0,,It's bad, but you know me I am strong enough to deal with both of them. You'll see.
-Dialogue: 0,0:03:11.52,0:03:16.45,1080P-sgsm-63,,0,0,0,,这很糟糕 但你知道我 我有足够的力量来处理这两个问题 你会明白的
+Dialogue: 0,0:03:11.52,0:03:16.45,1080P-sgsm-63,,0,0,0,,这很糟糕 但你了解我 我有足够的力量来处理这两个问题 你会明白的
 Dialogue: 0,0:03:17.08,0:03:18.98,1080P-sgbd-42,,0,0,0,,U: Oh wait Jeremy's calling.
 Dialogue: 0,0:03:17.08,0:03:18.98,1080P-sgsm-63,,0,0,0,,哦 等等 Jeremy的电话
 Dialogue: 0,0:03:20.70,0:03:21.58,1080P-sgbd-42,,0,0,0,,Yes, Einstein.
-Dialogue: 0,0:03:20.70,0:03:21.58,1080P-sgsm-63,,0,0,0,,是的 爱因斯坦
+Dialogue: 0,0:03:20.70,0:03:21.58,1080P-sgsm-63,,0,0,0,,喂 爱因斯坦
 Dialogue: 0,0:03:22.10,0:03:26.50,1080P-sgbd-42,,0,0,0,,Ulrich the super scan receives strange clone signals in the garden of the Academy.
 Dialogue: 0,0:03:22.10,0:03:26.50,1080P-sgsm-63,,0,0,0,,Ulrich 超级扫描器收到了来自学校花园的奇怪克隆信号
 Dialogue: 0,0:03:26.58,0:03:27.78,1080P-sgbd-42,,0,0,0,,Please go check the forest.
-Dialogue: 0,0:03:26.58,0:03:27.78,1080P-sgsm-63,,0,0,0,,请去检查森林
+Dialogue: 0,0:03:26.58,0:03:27.78,1080P-sgsm-63,,0,0,0,,请前往森林进行检查
 Dialogue: 0,0:03:28.14,0:03:30.94,1080P-sgbd-42,,0,0,0,,Clone signals. Is there any activity tower on Lyoko?
 Dialogue: 0,0:03:28.14,0:03:30.94,1080P-sgsm-63,,0,0,0,,克隆信号 Lyoko里有什么激活的圆塔吗
 Dialogue: 0,0:03:31.25,0:03:33.93,1080P-sgbd-42,,0,0,0,,Hello, Einstein hello?
@@ -79,17 +79,17 @@ Dialogue: 0,0:04:08.24,0:04:09.62,1080P-sgsm-63,,0,0,0,,好吧 好吧
 Dialogue: 0,0:04:10.03,0:04:12.67,1080P-sgbd-42,,0,0,0,,This is not good. I seriously don't like this.
 Dialogue: 0,0:04:10.03,0:04:12.67,1080P-sgsm-63,,0,0,0,,这不是好事 我真的不喜欢这个
 Dialogue: 0,0:04:12.80,0:04:16.45,1080P-sgbd-42,,0,0,0,,Einstein. It's a disaster. There is a tower in the garden of the Academy.
-Dialogue: 0,0:04:12.80,0:04:16.45,1080P-sgsm-63,,0,0,0,,爱因斯坦 这是一场灾难 在学院的花园里有一座圆塔
+Dialogue: 0,0:04:12.80,0:04:16.45,1080P-sgsm-63,,0,0,0,,爱因斯坦 大事不妙 在学院的花园里有一座圆塔
 Dialogue: 0,0:04:16.87,0:04:17.88,1080P-sgbd-42,,0,0,0,,But that's impossible!
-Dialogue: 0,0:04:16.87,0:04:17.88,1080P-sgsm-63,,0,0,0,,但那是不可能的
+Dialogue: 0,0:04:16.87,0:04:17.88,1080P-sgsm-63,,0,0,0,,但那不现实啊
 Dialogue: 0,0:04:18.22,0:04:20.62,1080P-sgbd-42,,0,0,0,,Then please wake us up because we're all delusional.
-Dialogue: 0,0:04:18.22,0:04:20.62,1080P-sgsm-63,,0,0,0,,那就请从幻想之中叫醒我们
+Dialogue: 0,0:04:18.22,0:04:20.62,1080P-sgsm-63,,0,0,0,,那就请从幻想中叫醒我们
 Dialogue: 0,0:04:20.94,0:04:23.66,1080P-sgbd-42,,0,0,0,,Okay, okay, I get it. come to the factory right now.
-Dialogue: 0,0:04:20.94,0:04:23.66,1080P-sgsm-63,,0,0,0,,好吧 好吧 我明白了 马上到工厂来
+Dialogue: 0,0:04:20.94,0:04:23.66,1080P-sgsm-63,,0,0,0,,好吧 好吧 我知道了 马上到工厂来
 Dialogue: 0,0:04:23.69,0:04:26.51,1080P-sgbd-42,,0,0,0,,Monsters might show up. It's too dangerous, hurry.
-Dialogue: 0,0:04:23.69,0:04:26.51,1080P-sgsm-63,,0,0,0,,怪兽可能会出现 太危险了 快点
+Dialogue: 0,0:04:23.69,0:04:26.51,1080P-sgsm-63,,0,0,0,,可能会有怪兽可出现 太危险了 快点
 Dialogue: 0,0:04:26.53,0:04:29.98,1080P-sgbd-42,,0,0,0,,Okay? We're on our way, but I have a really bad feeling about this.
-Dialogue: 0,0:04:26.53,0:04:29.98,1080P-sgsm-63,,0,0,0,,好吗？我们在路上了 但我有一种非常不好的感觉
+Dialogue: 0,0:04:26.53,0:04:29.98,1080P-sgsm-63,,0,0,0,,好的？我们在路上了 但我有一种非常不好的感觉
 Dialogue: 0,0:04:38.30,0:04:40.81,1080P-sgbd-42,,0,0,0,,Hello lyoko warriors! miss me?
 Dialogue: 0,0:04:38.30,0:04:40.81,1080P-sgsm-63,,0,0,0,,你好 Lyoko战士们 想我吗？
 Dialogue: 0,0:04:44.32,0:04:45.74,1080P-sgbd-42,,0,0,0,,Wait! is that William?
@@ -103,7 +103,7 @@ Dialogue: 0,0:04:54.94,0:04:58.30,1080P-sgsm-63,,0,0,0,,那就好 很高兴我�
 Dialogue: 0,0:05:04.83,0:05:08.22,1080P-sgbd-42,,0,0,0,,You need to be more faster than that Yumi!
 Dialogue: 0,0:05:04.83,0:05:08.22,1080P-sgsm-63,,0,0,0,,你要比他更快才行啊 Yumi
 Dialogue: 0,0:05:12.83,0:05:14.52,1080P-sgbd-42,,0,0,0,,Yumi! dont you dare to touch her!
-Dialogue: 0,0:05:12.83,0:05:14.52,1080P-sgsm-63,,0,0,0,,Yumi！你敢碰她吗？
+Dialogue: 0,0:05:12.83,0:05:14.52,1080P-sgsm-63,,0,0,0,,Yumi！你竟然敢伤害她！
 Dialogue: 0,0:05:22.62,0:05:23.42,1080P-sgbd-42,,0,0,0,,Take that!
 Dialogue: 0,0:05:22.62,0:05:23.42,1080P-sgsm-63,,0,0,0,,吃吃这个
 Dialogue: 0,0:05:24.84,0:05:25.44,1080P-sgbd-42,,0,0,0,,William no!
@@ -115,45 +115,45 @@ Dialogue: 0,0:05:39.82,0:05:41.22,1080P-sgsm-63,,0,0,0,,我做了我该做的
 Dialogue: 0,0:05:41.34,0:05:43.86,1080P-sgbd-42,,0,0,0,,Besides its just the clone. It's not real.
 Dialogue: 0,0:05:41.34,0:05:43.86,1080P-sgsm-63,,0,0,0,,而且 这只是个克隆 不是真的
 Dialogue: 0,0:05:44.16,0:05:47.89,1080P-sgbd-42,,0,0,0,,Odd's right no time to lose. Let's go before he recovers himself.
-Dialogue: 0,0:05:44.16,0:05:47.89,1080P-sgsm-63,,0,0,0,,Odd说得对 没时间了 我们在他恢复之前走吧
+Dialogue: 0,0:05:44.16,0:05:47.89,1080P-sgsm-63,,0,0,0,,Odd说得对 没时间了 我们在他恢复之前快走吧
 Dialogue: 0,0:05:48.97,0:05:49.54,1080P-sgbd-42,,0,0,0,,Come on.
 Dialogue: 0,0:05:48.97,0:05:49.54,1080P-sgsm-63,,0,0,0,,来吧
 Dialogue: 0,0:06:25.11,0:06:27.42,1080P-sgbd-42,,0,0,0,,Finally you took your time, come on.
 Dialogue: 0,0:06:25.11,0:06:27.42,1080P-sgsm-63,,0,0,0,,你们终于到了 来吧
 Dialogue: 0,0:06:27.43,0:06:29.14,1080P-sgbd-42,,0,0,0,,I want to hear everything about this tower.
-Dialogue: 0,0:06:27.43,0:06:29.14,1080P-sgsm-63,,0,0,0,,我想听听关于这座塔的一切
+Dialogue: 0,0:06:27.43,0:06:29.14,1080P-sgsm-63,,0,0,0,,我想听听关于这座圆塔的一切
 Dialogue: 0,0:06:29.38,0:06:33.40,1080P-sgbd-42,,0,0,0,,Without getting into details, we just saw the tower in middle of the forest.
 Dialogue: 0,0:06:29.38,0:06:33.40,1080P-sgsm-63,,0,0,0,,不谈细节 我们只是看到圆塔处在森林中间
 Dialogue: 0,0:06:33.45,0:06:34.23,1080P-sgbd-42,,0,0,0,,That's it.
-Dialogue: 0,0:06:33.45,0:06:34.23,1080P-sgsm-63,,0,0,0,,就这样吧
+Dialogue: 0,0:06:33.45,0:06:34.23,1080P-sgsm-63,,0,0,0,,就这么多吧
 Dialogue: 0,0:06:34.60,0:06:38.13,1080P-sgbd-42,,0,0,0,,But how can this even be possible unless wait?
 Dialogue: 0,0:06:34.60,0:06:38.13,1080P-sgsm-63,,0,0,0,,但这怎么可能呢 除非 等等
 Dialogue: 0,0:06:38.16,0:06:42.26,1080P-sgbd-42,,0,0,0,,That's it. XANA moved my tower the one in the north to the Kadic Academy.
-Dialogue: 0,0:06:38.16,0:06:42.26,1080P-sgsm-63,,0,0,0,,就这样 XANA把我在北方的那座塔移到了凯德中学
+Dialogue: 0,0:06:38.16,0:06:42.26,1080P-sgsm-63,,0,0,0,,就是这样 XANA把我在北方的那座圆塔移到了凯德中学
 Dialogue: 0,0:06:42.89,0:06:45.79,1080P-sgbd-42,,0,0,0,,So you mean this is the tower where you were teleported to earth?
 Dialogue: 0,0:06:42.89,0:06:45.79,1080P-sgsm-63,,0,0,0,,所以你的意思是这就是你那座被传送到地球的圆塔？
 Dialogue: 0,0:06:46.22,0:06:48.95,1080P-sgbd-42,,0,0,0,,Yes, XANA moved the tower to the Kadic Academy.
 Dialogue: 0,0:06:46.22,0:06:48.95,1080P-sgsm-63,,0,0,0,,是的 XANA把圆塔移到了凯德中学
-Dialogue: 0,0:06:49.46,0:06:51.73,1080P-sgbd-42,,0,0,0,,What should we do about this tower than?
+Dialogue: 0,0:06:49.46,0:06:51.73,1080P-sgbd-42,,0,0,0,,What should we do about this tower then?
 Dialogue: 0,0:06:49.46,0:06:51.73,1080P-sgsm-63,,0,0,0,,那我们应该怎么处理这座圆塔呢？
 Dialogue: 0,0:06:52.56,0:06:56.11,1080P-sgbd-42,,0,0,0,,You need to teleport to earth and destroy this tower for good.
 Dialogue: 0,0:06:52.56,0:06:56.11,1080P-sgsm-63,,0,0,0,,你需要远程传送到地球 并永远地摧毁这座圆塔
 Dialogue: 0,0:06:56.60,0:06:58.70,1080P-sgbd-42,,0,0,0,,Wait with teleport you mean the teleport.
-Dialogue: 0,0:06:56.60,0:06:58.70,1080P-sgsm-63,,0,0,0,,等等 你说的远程传送是指远程传送
+Dialogue: 0,0:06:56.60,0:06:58.70,1080P-sgsm-63,,0,0,0,,等等 你说的远程传送是指远程传送吧
 Dialogue: 0,0:06:58.73,0:07:01.22,1080P-sgbd-42,,0,0,0,,I'm thinking about are just it's on the teleport teleporter.
-Dialogue: 0,0:06:58.73,0:07:01.22,1080P-sgsm-63,,0,0,0,,我以为的是在传送器上远程传送
+Dialogue: 0,0:06:58.73,0:07:01.22,1080P-sgsm-63,,0,0,0,,我还以为的是在传送器上远程传送
 Dialogue: 0,0:07:01.57,0:07:02.46,1080P-sgbd-42,,0,0,0,,You'll soon find out.
 Dialogue: 0,0:07:01.57,0:07:02.46,1080P-sgsm-63,,0,0,0,,你很快就会知道了
 Dialogue: 0,0:07:02.53,0:07:05.28,1080P-sgbd-42,,0,0,0,,Anyway Jeremy I need your help with the word transfer.
-Dialogue: 0,0:07:02.53,0:07:05.28,1080P-sgsm-63,,0,0,0,,无论如何 Jeremy 我需要你帮我输入传送指令
+Dialogue: 0,0:07:02.53,0:07:05.28,1080P-sgsm-63,,0,0,0,,不管怎样 Jeremy 我需要你帮我输入传送指令
 Dialogue: 0,0:07:05.51,0:07:06.38,1080P-sgbd-42,,0,0,0,,Of course.
-Dialogue: 0,0:07:05.51,0:07:06.38,1080P-sgsm-63,,0,0,0,,当然了
+Dialogue: 0,0:07:05.51,0:07:06.38,1080P-sgsm-63,,0,0,0,,没问题
 Dialogue: 0,0:07:07.37,0:07:09.65,1080P-sgbd-42,,0,0,0,,Okay, let's destroy that Tower.
 Dialogue: 0,0:07:07.37,0:07:09.65,1080P-sgsm-63,,0,0,0,,好吧 让我们摧毁那座圆塔
 Dialogue: 0,0:07:10.41,0:07:12.83,1080P-sgbd-42,,0,0,0,,Aelita is waiting for you all in Sector 5.
 Dialogue: 0,0:07:10.41,0:07:12.83,1080P-sgsm-63,,0,0,0,,Aelita已经在第五空间等着大家了
 Dialogue: 0,0:07:13.43,0:07:15.88,1080P-sgbd-42,,0,0,0,,The virtualization process is about to start.
-Dialogue: 0,0:07:13.43,0:07:15.88,1080P-sgsm-63,,0,0,0,,虚拟化过程即将开始
+Dialogue: 0,0:07:13.43,0:07:15.88,1080P-sgsm-63,,0,0,0,,虚拟化程序准备启动了
 Dialogue: 0,0:07:16.42,0:07:17.84,1080P-sgbd-42,,0,0,0,,Lady first.
 Dialogue: 0,0:07:16.42,0:07:17.84,1080P-sgsm-63,,0,0,0,,女士优先
 Dialogue: 0,0:07:20.07,0:07:21.27,1080P-sgbd-42,,0,0,0,,Thank you kindly sir.
@@ -183,17 +183,17 @@ Dialogue: 0,0:08:03.92,0:08:10.73,1080P-sgsm-63,,0,0,0,,远程传送 Aelita，Od
 Dialogue: 0,0:08:11.66,0:08:14.46,1080P-sgbd-42,,0,0,0,,Everything's fine Einstein we're in Kadic right now.
 Dialogue: 0,0:08:11.66,0:08:14.46,1080P-sgsm-63,,0,0,0,,一切都很好 爱因斯坦 我们现在就在凯德中学
 Dialogue: 0,0:08:15.18,0:08:16.56,1080P-sgbd-42,,0,0,0,,Let's go to the tower.
-Dialogue: 0,0:08:15.18,0:08:16.56,1080P-sgsm-63,,0,0,0,,让我们去圆塔
+Dialogue: 0,0:08:15.18,0:08:16.56,1080P-sgsm-63,,0,0,0,,我们去圆塔
 Dialogue: 0,0:08:17.42,0:08:19.38,1080P-sgbd-42,,0,0,0,,Please everyone, be careful.
 Dialogue: 0,0:08:17.42,0:08:19.38,1080P-sgsm-63,,0,0,0,,请大家小心
 Dialogue: 0,0:08:20.33,0:08:22.97,1080P-sgbd-42,,0,0,0,,Don't worry Einstein we can handle anything.
-Dialogue: 0,0:08:20.33,0:08:22.97,1080P-sgsm-63,,0,0,0,,别担心爱因斯坦 我们能应对任何事
+Dialogue: 0,0:08:20.33,0:08:22.97,1080P-sgsm-63,,0,0,0,,别担心爱因斯坦 我们能够应对
 Dialogue: 0,0:08:24.63,0:08:25.88,1080P-sgbd-42,,0,0,0,,We found the tower.
 Dialogue: 0,0:08:24.63,0:08:25.88,1080P-sgsm-63,,0,0,0,,我们找到了圆塔
 Dialogue: 0,0:08:27.33,0:08:32.11,1080P-sgbd-42,,0,0,0,,Huh, be careful XANA just activate the tower.
-Dialogue: 0,0:08:27.33,0:08:32.11,1080P-sgsm-63,,0,0,0,,恩 小心点 XANA刚刚启动了圆塔
+Dialogue: 0,0:08:27.33,0:08:32.11,1080P-sgsm-63,,0,0,0,,嗯 小心点 XANA刚刚启动了圆塔
 Dialogue: 0,0:08:35.08,0:08:39.64,1080P-sgbd-42,,0,0,0,,Be aware. I don't like this. I dont like this.
-Dialogue: 0,0:08:35.08,0:08:39.64,1080P-sgsm-63,,0,0,0,,要注意 我不喜欢这样
+Dialogue: 0,0:08:35.08,0:08:39.64,1080P-sgsm-63,,0,0,0,,小心 我不喜欢这个东西
 Dialogue: 0,0:08:40.42,0:08:42.25,1080P-sgbd-42,,0,0,0,,We will manage, father. Don't worry.
 Dialogue: 0,0:08:40.42,0:08:42.25,1080P-sgsm-63,,0,0,0,,我们会处理好的 父亲 别担心
 Dialogue: 0,0:08:52.39,0:08:54.47,1080P-sgbd-42,,0,0,0,,XANA is using exact same trick.
@@ -225,9 +225,9 @@ Dialogue: 0,0:09:39.99,0:09:41.52,1080P-sgsm-63,,0,0,0,,哈哈哈 干得好
 Dialogue: 0,0:09:42.94,0:09:44.22,1080P-sgbd-42,,0,0,0,,I'll take care of the tower.
 Dialogue: 0,0:09:42.94,0:09:44.22,1080P-sgsm-63,,0,0,0,,我来处理圆塔
 Dialogue: 0,0:09:44.76,0:09:47.26,1080P-sgbd-42,,0,0,0,,Okay, Aelita, but please I have a request.
-Dialogue: 0,0:09:44.76,0:09:47.26,1080P-sgsm-63,,0,0,0,,好吧 Aelita 但请我有个请求
+Dialogue: 0,0:09:44.76,0:09:47.26,1080P-sgsm-63,,0,0,0,,好的Aelita 但请我有个要求
 Dialogue: 0,0:09:47.42,0:09:50.59,1080P-sgbd-42,,0,0,0,,Find some data about how XANA was able to move the tower.
-Dialogue: 0,0:09:47.42,0:09:50.59,1080P-sgsm-63,,0,0,0,,找到一些关于XANA如何能够移动塔的数据
+Dialogue: 0,0:09:47.42,0:09:50.59,1080P-sgsm-63,,0,0,0,,把XANA如何能够移动圆塔的数据找出来
 Dialogue: 0,0:09:50.64,0:09:51.48,1080P-sgbd-42,,0,0,0,,Okay, daddy.
 Dialogue: 0,0:09:50.64,0:09:51.48,1080P-sgsm-63,,0,0,0,,好的 爸爸
 Dialogue: 0,0:09:59.98,0:10:02.66,1080P-sgbd-42,,0,0,0,,Hang on! Einstein! something is happening.
@@ -237,7 +237,7 @@ Dialogue: 0,0:10:03.34,0:10:04.78,1080P-sgsm-63,,0,0,0,,嗯？你是什么意思
 Dialogue: 0,0:10:08.96,0:10:11.80,1080P-sgbd-42,,0,0,0,,There are strange lights coming out of the tower.
 Dialogue: 0,0:10:08.96,0:10:11.80,1080P-sgsm-63,,0,0,0,,有奇怪的光从圆塔里出来
 Dialogue: 0,0:10:12.38,0:10:17.86,1080P-sgbd-42,,0,0,0,,What the hell is that. It's like a tornado, or it is even a tornado.
-Dialogue: 0,0:10:12.38,0:10:17.86,1080P-sgsm-63,,0,0,0,,那是什么鬼东西 就像龙卷风 或者说它甚至是龙卷风
+Dialogue: 0,0:10:12.38,0:10:17.86,1080P-sgsm-63,,0,0,0,,那是什么鬼东西 就像龙卷风 或者说它就是龙卷风
 Dialogue: 0,0:10:18.94,0:10:20.93,1080P-sgbd-42,,0,0,0,,What is that? It's going to the sky.
 Dialogue: 0,0:10:18.94,0:10:20.93,1080P-sgsm-63,,0,0,0,,那是什么？它在向天空飞去
 Dialogue: 0,0:10:21.45,0:10:24.22,1080P-sgbd-42,,0,0,0,,To the sky? Oh? No. This is not good.
