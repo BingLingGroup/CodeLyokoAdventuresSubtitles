@@ -38,6 +38,7 @@ Video | Chinese Subtitles
 [S2E01 Anthea](https://youtu.be/6_uFIw6DIFE) | [S2E01 Anthea](Season%202/Code%20Lyoko%20Adventures%20S2E1%20-%20Anthea.ass)
 [S2E02 Reunion](https://youtu.be/Znm87ghp_K0) | [S2E02 Reunion](Season%202/Code%20Lyoko%20Adventures%20S2E2%20-%20Reunion.ass)
 [S2E03 Time](https://youtu.be/tAGH0KgXoeg) | [S2E03 Time](Season%202/Code%20Lyoko%20Adventures%20S2E3%20-%20Time.ass)
+[S2E04 Disaster](https://youtu.be/3Gsn0kq05pw) | [S2E04 Disaster](Season%202/Code%20Lyoko%20Adventures%20S2E4%20-%20Disaster.ass)
 
 ## Download single file or directory from github
 
