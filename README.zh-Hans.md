@@ -36,7 +36,8 @@
 [S1E09 战士](https://youtu.be/v=TimSnIrW97I) | [S1E09 战士](Season%201/Code%20Lyoko%20Adventures%20%239%20-%20Warrior.ass)
 [S1E10 代码 Franz](https://youtu.be/v=zlseSD4--wE) | [S1E10 代码 Franz](Season%201/Code%20Lyoko%20Adventures%20%2310%20-%20Code%20Franz%20-%20Season%20Finale.ass)
 [S2E01 Anthea](https://youtu.be/6_uFIw6DIFE) | [S2E01 Anthea](Season%202/Code%20Lyoko%20Adventures%20S2E1%20-%20Anthea.ass)
-
+[S2E02 重逢](https://youtu.be/Znm87ghp_K0) | [S2E02 重逢](Season%202/Code%20Lyoko%20Adventures%20S2E2%20-%20Reunion.ass)
+[S2E03 时间](https://youtu.be/tAGH0KgXoeg) | [S2E03 时间](Season%202/Code%20Lyoko%20Adventures%20S2E3%20-%20Time.ass)
 
 ## 从github下载单独的文件或者文件夹
 
