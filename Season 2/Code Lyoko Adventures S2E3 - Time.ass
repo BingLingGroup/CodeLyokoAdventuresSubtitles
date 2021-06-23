@@ -17,261 +17,261 @@ Style: 1080P-sgsm-63,更纱黑体 SC Semibold,63,&H00FFFFFF,&H80ACB64D,&H5A00000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:04.96,1080P-sgbd-42,,0,0,0,,{\an1\fs45\blur4}虚幻勇士冒险 S2E3 时间 由özberk özen制作 \N视频来源：https://youtu.be/tAGH0KgXoeg，中文字幕由熙洛Chincode制作，翻译：jky，Albeta
-Dialogue: 0,0:00:51.98,0:00:54.31,1080P-sgbd-42,,0,0,0,,Hey Odd, do you know where are the others?
-Dialogue: 0,0:00:51.98,0:00:54.31,1080P-sgsm-63,,0,0,0,,嘿 Odd 你知道其他人在哪里吗？
-Dialogue: 0,0:00:54.56,0:00:56.46,1080P-sgbd-42,,0,0,0,,The school is literally empty.
-Dialogue: 0,0:00:54.56,0:00:56.46,1080P-sgsm-63,,0,0,0,,学校简直是空的
-Dialogue: 0,0:00:57.10,0:01:02.42,1080P-sgbd-42,,0,0,0,,Don't worry, I spoke to Jeremy. All of them are waiting for us at the cafe.
-Dialogue: 0,0:00:57.10,0:01:02.42,1080P-sgsm-63,,0,0,0,,别担心 我跟Jeremy问过了 他们都在咖啡馆里等着我们
-Dialogue: 0,0:01:03.38,0:01:06.88,1080P-sgbd-42,,0,0,0,,I still can't believe that we really saved Franz Hopper.
-Dialogue: 0,0:01:03.38,0:01:06.88,1080P-sgsm-63,,0,0,0,,我还是不相信我们真的救了Franz Hopper
-Dialogue: 0,0:01:07.16,0:01:08.90,1080P-sgbd-42,,0,0,0,,Everything's easier now.
-Dialogue: 0,0:01:07.16,0:01:08.90,1080P-sgsm-63,,0,0,0,,现在一切都变得简单了
-Dialogue: 0,0:01:09.22,0:01:11.00,1080P-sgbd-42,,0,0,0,,And Aelita is so happy
-Dialogue: 0,0:01:09.22,0:01:11.00,1080P-sgsm-63,,0,0,0,,而且Aelita也很高兴
-Dialogue: 0,0:01:11.00,0:01:13.56,1080P-sgbd-42,,0,0,0,,That's right buddy, luck is on our side
-Dialogue: 0,0:01:11.00,0:01:13.56,1080P-sgsm-63,,0,0,0,,这就对了 伙计 我们还是很幸运的
-Dialogue: 0,0:01:13.84,0:01:15.76,1080P-sgbd-42,,0,0,0,,Well for the first time.
-Dialogue: 0,0:01:13.84,0:01:15.76,1080P-sgsm-63,,0,0,0,,好吧 这还是第一次运气这么好
-Dialogue: 0,0:01:23.76,0:01:27.17,1080P-sgbd-42,,0,0,0,,Okay Einstein, at same time, what's our next mission?
-Dialogue: 0,0:01:23.76,0:01:27.17,1080P-sgsm-63,,0,0,0,,好了 爱因斯坦 此时此刻 我们的下一个任务是什么？
-Dialogue: 0,0:01:28.17,0:01:30.57,1080P-sgbd-42,,0,0,0,,Your next mission is really simple actually.
-Dialogue: 0,0:01:28.17,0:01:30.57,1080P-sgsm-63,,0,0,0,,你们的下一个任务其实很简单
-Dialogue: 0,0:01:31.50,0:01:35.87,1080P-sgbd-42,,0,0,0,,Basically, you'll go back to that big sector and you will destroy it.
-Dialogue: 0,0:01:31.50,0:01:35.87,1080P-sgsm-63,,0,0,0,,基本上来说 你们要回到那个大区 并摧毁它
-Dialogue: 0,0:01:37.02,0:01:41.80,1080P-sgbd-42,,0,0,0,,I've got really weird feelings about this sector, I wonder where its supercomputer is.
-Dialogue: 0,0:01:37.02,0:01:41.80,1080P-sgsm-63,,0,0,0,,我觉得这个区域很奇怪 我想知道它的超级计算机在哪里
-Dialogue: 0,0:01:42.00,0:01:44.31,1080P-sgbd-42,,0,0,0,,Well we'll find out soon enough.
-Dialogue: 0,0:01:42.00,0:01:44.31,1080P-sgsm-63,,0,0,0,,嗯 我们很快就会知道了
-Dialogue: 0,0:01:45.08,0:01:47.30,1080P-sgbd-42,,0,0,0,,That's true and I'm afraid.
-Dialogue: 0,0:01:45.08,0:01:47.30,1080P-sgsm-63,,0,0,0,,这倒是没错 但我很害怕
-Dialogue: 0,0:01:48.02,0:01:50.00,1080P-sgbd-42,,0,0,0,,Hey, how is Franz Hopper feeling?
-Dialogue: 0,0:01:48.02,0:01:50.00,1080P-sgsm-63,,0,0,0,,嘿 Franz Hopper现在感觉怎么样？
-Dialogue: 0,0:01:53.02,0:01:58.30,1080P-sgbd-42,,0,0,0,,He's Okay, he's at the factory at the moment, working on a new program for the supercomputer
-Dialogue: 0,0:01:53.02,0:01:58.30,1080P-sgsm-63,,0,0,0,,他很好 他现在在工厂里 正在为超级计算机开发一个新程序
-Dialogue: 0,0:01:59.26,0:02:01.46,1080P-sgbd-42,,0,0,0,,Cool, what kind of program is that?
-Dialogue: 0,0:01:59.26,0:02:01.46,1080P-sgsm-63,,0,0,0,,酷 那是什么样的程序？
-Dialogue: 0,0:02:01.86,0:02:02.78,1080P-sgbd-42,,0,0,0,,Marabounta?
-Dialogue: 0,0:02:01.86,0:02:02.78,1080P-sgsm-63,,0,0,0,,行军蚁？
-Dialogue: 0,0:02:02.94,0:02:08.69,1080P-sgbd-42,,0,0,0,,Haha, very funny but no, thanks to the program he's creating, you'll have more life points
-Dialogue: 0,0:02:02.94,0:02:08.69,1080P-sgsm-63,,0,0,0,,哈哈 非常有趣 但不是 得益于他正在创建的程序 你将有更多的生命值
-Dialogue: 0,0:02:09.32,0:02:14.14,1080P-sgbd-42,,0,0,0,,More life points means longer fights and we will complete missions way easier where victories.
-Dialogue: 0,0:02:09.32,0:02:14.14,1080P-sgsm-63,,0,0,0,,更多的生命值意味着更长的战斗时间 我们将更容易完成任务 取得胜利
-Dialogue: 0,0:02:14.17,0:02:17.46,1080P-sgbd-42,,0,0,0,,Also means bye bye XANA as soon as possible.
-Dialogue: 0,0:02:14.17,0:02:17.46,1080P-sgsm-63,,0,0,0,,同时也意味着可以尽快地告别XANA
-Dialogue: 0,0:02:17.88,0:02:20.58,1080P-sgbd-42,,0,0,0,,And all of these thanks to my father.
-Dialogue: 0,0:02:17.88,0:02:20.58,1080P-sgsm-63,,0,0,0,,这些都要感谢我父亲
-Dialogue: 0,0:02:22.14,0:02:24.61,1080P-sgbd-42,,0,0,0,,And your virtualization time will be shorter.
-Dialogue: 0,0:02:22.14,0:02:24.61,1080P-sgsm-63,,0,0,0,,而且你的虚拟化时间会更短
-Dialogue: 0,0:02:25.26,0:02:27.34,1080P-sgbd-42,,0,0,0,,Oh thanks for the reminder by the way,
-Dialogue: 0,0:02:25.26,0:02:27.34,1080P-sgsm-63,,0,0,0,,哦 谢谢你的提醒 顺便说一下
-Dialogue: 0,0:02:27.39,0:02:31.57,1080P-sgbd-42,,0,0,0,,did you know that now we don't have to wait 12 hours to get back to Lyoko?
-Dialogue: 0,0:02:27.39,0:02:31.57,1080P-sgsm-63,,0,0,0,,你知道吗 现在我们不用再等12个小时才能回到Lyoko了
-Dialogue: 0,0:02:31.68,0:02:34.42,1080P-sgbd-42,,0,0,0,,This program will make the waiting time much shorter.
-Dialogue: 0,0:02:31.68,0:02:34.42,1080P-sgsm-63,,0,0,0,,这个程序会让等待的时间大大缩短
-Dialogue: 0,0:03:23.30,0:03:25.53,1080P-sgbd-42,,0,0,0,,Oh no, XANA's attacking.
-Dialogue: 0,0:03:23.30,0:03:25.53,1080P-sgsm-63,,0,0,0,,哦 不 XANA正在发起攻击
-Dialogue: 0,0:03:25.87,0:03:26.66,1080P-sgbd-42,,0,0,0,,Not now.
-Dialogue: 0,0:03:25.87,0:03:26.66,1080P-sgsm-63,,0,0,0,,别现在来啊
-Dialogue: 0,0:03:27.25,0:03:29.33,1080P-sgbd-42,,0,0,0,,Ah, what are those windows?
-Dialogue: 0,0:03:27.25,0:03:29.33,1080P-sgsm-63,,0,0,0,,啊 那些窗口是什么？
-Dialogue: 0,0:03:29.40,0:03:31.41,1080P-sgbd-42,,0,0,0,,Is it the return to the past program?
-Dialogue: 0,0:03:29.40,0:03:31.41,1080P-sgsm-63,,0,0,0,,是时间倒转的程序吗？
-Dialogue: 0,0:03:32.06,0:03:33.06,1080P-sgbd-42,,0,0,0,,What's happening?
-Dialogue: 0,0:03:32.06,0:03:33.06,1080P-sgsm-63,,0,0,0,,发生了什么事？
-Dialogue: 0,0:03:33.74,0:03:36.38,1080P-sgbd-42,,0,0,0,,This light, what's happening?
-Dialogue: 0,0:03:33.74,0:03:36.38,1080P-sgsm-63,,0,0,0,,这道光 发生了什么？
-Dialogue: 0,0:04:18.70,0:04:22.62,1080P-sgbd-42,,0,0,0,,Huh, Did you all feel this. Einstein, what was that?
-Dialogue: 0,0:04:18.70,0:04:22.62,1080P-sgsm-63,,0,0,0,,嗯 你们都感觉到了吗 爱因斯坦 那是什么？
-Dialogue: 0,0:04:22.98,0:04:25.08,1080P-sgbd-42,,0,0,0,,It felt like the Return to the Past.
-Dialogue: 0,0:04:22.98,0:04:25.08,1080P-sgsm-63,,0,0,0,,感觉像是发起了时间倒转
-Dialogue: 0,0:04:25.08,0:04:25.31,1080P-sgbd-42,,0,0,0,,But-
-Dialogue: 0,0:04:25.08,0:04:25.31,1080P-sgsm-63,,0,0,0,,但是...
-Dialogue: 0,0:04:25.34,0:04:26.64,1080P-sgbd-42,,0,0,0,,But it was red.
-Dialogue: 0,0:04:25.34,0:04:26.64,1080P-sgsm-63,,0,0,0,,但它是红色的
-Dialogue: 0,0:04:26.78,0:04:27.90,1080P-sgbd-42,,0,0,0,,Something's wrong.
-Dialogue: 0,0:04:26.78,0:04:27.90,1080P-sgsm-63,,0,0,0,,有点不对劲
-Dialogue: 0,0:04:28.54,0:04:29.58,1080P-sgbd-42,,0,0,0,,And I don't like it.
-Dialogue: 0,0:04:28.54,0:04:29.58,1080P-sgsm-63,,0,0,0,,而且我不喜欢它
-Dialogue: 0,0:04:30.44,0:04:35.62,1080P-sgbd-42,,0,0,0,,Wait guys, this is more than just a return to the past. Look at the people.
-Dialogue: 0,0:04:30.44,0:04:35.62,1080P-sgsm-63,,0,0,0,,等等 伙计们 这不仅仅是时间倒转这么简单 看看这些人
-Dialogue: 0,0:04:38.68,0:04:39.43,1080P-sgbd-42,,0,0,0,,They all froze.
-Dialogue: 0,0:04:38.68,0:04:39.43,1080P-sgsm-63,,0,0,0,,他们都停住了
-Dialogue: 0,0:04:40.16,0:04:41.83,1080P-sgbd-42,,0,0,0,,I think you're all missing a question.
-Dialogue: 0,0:04:40.16,0:04:41.83,1080P-sgsm-63,,0,0,0,,我想你们都忽略了一个问题
-Dialogue: 0,0:04:42.42,0:04:44.47,1080P-sgbd-42,,0,0,0,,Why aren't we being affected by this thing too?
-Dialogue: 0,0:04:42.42,0:04:44.47,1080P-sgsm-63,,0,0,0,,为什么我们没有被这个东西影响？
-Dialogue: 0,0:04:45.18,0:04:49.39,1080P-sgbd-42,,0,0,0,,For the very same reason, we're not affected by the normal return to the past.
-Dialogue: 0,0:04:45.18,0:04:49.39,1080P-sgsm-63,,0,0,0,,正是因为同样的情况 我们没有被正常的时间倒转程序所影响
-Dialogue: 0,0:04:50.10,0:04:52.12,1080P-sgbd-42,,0,0,0,,This is no time to drag your feet.
-Dialogue: 0,0:04:50.10,0:04:52.12,1080P-sgsm-63,,0,0,0,,现在没时间拖沓了
-Dialogue: 0,0:04:52.49,0:04:54.91,1080P-sgbd-42,,0,0,0,,Let's go, we can't lose more time.
-Dialogue: 0,0:04:52.49,0:04:54.91,1080P-sgsm-63,,0,0,0,,我们行动吧 不能再浪费时间了
-Dialogue: 0,0:04:56.63,0:04:58.26,1080P-sgbd-42,,0,0,0,,Father, what happened?
-Dialogue: 0,0:04:56.63,0:04:58.26,1080P-sgsm-63,,0,0,0,,父亲 发生了什么事？
-Dialogue: 0,0:04:58.86,0:05:00.18,1080P-sgbd-42,,0,0,0,,Is everything OK there?
-Dialogue: 0,0:04:58.86,0:05:00.18,1080P-sgsm-63,,0,0,0,,那里一切正常吗？
-Dialogue: 0,0:05:00.32,0:05:03.98,1080P-sgbd-42,,0,0,0,,XANA activated a tower and changed the return to the past program.
-Dialogue: 0,0:05:00.32,0:05:03.98,1080P-sgsm-63,,0,0,0,,XANA激活了一座圆塔 改变了时间倒转的程序
-Dialogue: 0,0:05:04.06,0:05:06.25,1080P-sgbd-42,,0,0,0,,Time has stopped all around the world.
-Dialogue: 0,0:05:04.06,0:05:06.25,1080P-sgsm-63,,0,0,0,,世界各地的时间都停止了
-Dialogue: 0,0:05:06.92,0:05:10.38,1080P-sgbd-42,,0,0,0,,Oh no, this is bad... the nuclear power plants need people to work.
-Dialogue: 0,0:05:06.92,0:05:10.38,1080P-sgsm-63,,0,0,0,,哦 不 这很糟糕......核电站需要有人去工作
-Dialogue: 0,0:05:10.42,0:05:11.47,1080P-sgbd-42,,0,0,0,,This is a disaster!
-Dialogue: 0,0:05:10.42,0:05:11.47,1080P-sgsm-63,,0,0,0,,这是一场灾难
-Dialogue: 0,0:05:12.45,0:05:14.94,1080P-sgbd-42,,0,0,0,,That's true, so hurry up and deactivate this tower.
-Dialogue: 0,0:05:12.45,0:05:14.94,1080P-sgsm-63,,0,0,0,,没错 所以赶紧把这个圆塔锁定了
-Dialogue: 0,0:05:15.16,0:05:16.14,1080P-sgbd-42,,0,0,0,,Hurry, Aelita.
-Dialogue: 0,0:05:15.16,0:05:16.14,1080P-sgsm-63,,0,0,0,,快点 Aelita
-Dialogue: 0,0:05:17.68,0:05:21.13,1080P-sgbd-42,,0,0,0,,I'm on my way, Daddy. Hang on a second, I'm coming.
-Dialogue: 0,0:05:17.68,0:05:21.13,1080P-sgsm-63,,0,0,0,,我在路上了 爸爸 等一下 我就来了
-Dialogue: 0,0:05:24.27,0:05:28.46,1080P-sgbd-42,,0,0,0,,We have to be faster or the nuclear power plants can explode.
-Dialogue: 0,0:05:24.27,0:05:28.46,1080P-sgsm-63,,0,0,0,,我们必须更快 否则核电站会爆炸的
-Dialogue: 0,0:05:29.16,0:05:30.09,1080P-sgbd-42,,0,0,0,,So hurry.
-Dialogue: 0,0:05:29.16,0:05:30.09,1080P-sgsm-63,,0,0,0,,所以快点
-Dialogue: 0,0:05:30.52,0:05:33.82,1080P-sgbd-42,,0,0,0,,I'm going, Daddy. Hang on a second...We're nearly there
-Dialogue: 0,0:05:30.52,0:05:33.82,1080P-sgsm-63,,0,0,0,,我这就去 爸爸 等一下 我们快到了
-Dialogue: 0,0:06:19.18,0:06:20.07,1080P-sgbd-42,,0,0,0,,Transfer Yumi.
-Dialogue: 0,0:06:19.18,0:06:20.07,1080P-sgsm-63,,0,0,0,,传送Yumi
-Dialogue: 0,0:06:21.78,0:06:23.04,1080P-sgbd-42,,0,0,0,,Transfer Aelita.
-Dialogue: 0,0:06:21.78,0:06:23.04,1080P-sgsm-63,,0,0,0,,传送Aelita
-Dialogue: 0,0:06:24.46,0:06:25.89,1080P-sgbd-42,,0,0,0,,Transfer Ulrich.
-Dialogue: 0,0:06:24.46,0:06:25.89,1080P-sgsm-63,,0,0,0,,传送Ulrich
-Dialogue: 0,0:06:27.74,0:06:28.75,1080P-sgbd-42,,0,0,0,,Transfer Odd.
-Dialogue: 0,0:06:27.74,0:06:28.75,1080P-sgsm-63,,0,0,0,,传送Odd
-Dialogue: 0,0:06:29.42,0:06:31.26,1080P-sgbd-42,,0,0,0,,Scanner and Virtualization!
-Dialogue: 0,0:06:29.42,0:06:31.26,1080P-sgsm-63,,0,0,0,,扫描并虚拟化
-Dialogue: 0,0:06:38.80,0:06:41.56,1080P-sgbd-42,,0,0,0,,I've located the tower. It's in the middle of the maze.
-Dialogue: 0,0:06:38.80,0:06:41.56,1080P-sgsm-63,,0,0,0,,我已经找到了那座圆塔 它在迷宫的中间
-Dialogue: 0,0:06:41.56,0:06:42.89,1080P-sgbd-42,,0,0,0,,Go and deactivate it.
-Dialogue: 0,0:06:41.56,0:06:42.89,1080P-sgsm-63,,0,0,0,,去把它锁定吧
-Dialogue: 0,0:06:43.56,0:06:48.78,1080P-sgbd-42,,0,0,0,,Meanwhile, Jeremy, I need your help. We have to fix the return to the past program.
-Dialogue: 0,0:06:43.56,0:06:48.78,1080P-sgsm-63,,0,0,0,,同时 Jeremy 我需要你的帮助 我们必须修复时间倒转的程序
-Dialogue: 0,0:06:48.78,0:06:49.88,1080P-sgbd-42,,0,0,0,,I'm on it.
-Dialogue: 0,0:06:48.78,0:06:49.88,1080P-sgsm-63,,0,0,0,,我正在做
-Dialogue: 0,0:06:55.76,0:07:00.78,1080P-sgbd-42,,0,0,0,,Yo Franzy, we found the tower but there's a little big problem.
-Dialogue: 0,0:06:55.76,0:07:00.78,1080P-sgsm-63,,0,0,0,,哟 Franz 我们找到了圆塔 但有一个不小的问题
-Dialogue: 0,0:07:01.62,0:07:05.05,1080P-sgbd-42,,0,0,0,,Ah... rats!! XANA also attacked the virtual map.
-Dialogue: 0,0:07:01.62,0:07:05.05,1080P-sgsm-63,,0,0,0,,啊......糟糕 XANA也攻击了虚拟地图
-Dialogue: 0,0:07:05.18,0:07:07.70,1080P-sgbd-42,,0,0,0,,I don't know what's happening...Would you mind explaining please?
-Dialogue: 0,0:07:05.18,0:07:07.70,1080P-sgsm-63,,0,0,0,,我不知道发生了什么......你能解释一下吗？
-Dialogue: 0,0:07:08.48,0:07:10.75,1080P-sgbd-42,,0,0,0,,Our blok friends are there to visit us
-Dialogue: 0,0:07:08.48,0:07:10.75,1080P-sgsm-63,,0,0,0,,我们的方文朋友来了
-Dialogue: 0,0:07:10.89,0:07:15.16,1080P-sgbd-42,,0,0,0,,but there's a bigger one in the middle, I never saw anything like this before.
-Dialogue: 0,0:07:10.89,0:07:15.16,1080P-sgsm-63,,0,0,0,,但中间有一只更大的 我以前从未见过这样的东西
-Dialogue: 0,0:07:15.40,0:07:17.62,1080P-sgbd-42,,0,0,0,,It doesn't look friendly, that's for sure.
-Dialogue: 0,0:07:15.40,0:07:17.62,1080P-sgsm-63,,0,0,0,,可以肯定地说 它看起来并不友好
-Dialogue: 0,0:07:18.30,0:07:21.06,1080P-sgbd-42,,0,0,0,,I see, it looks like an alpha blok.
-Dialogue: 0,0:07:18.30,0:07:21.06,1080P-sgsm-63,,0,0,0,,我明白了 它看起来像一个阿尔法方文
-Dialogue: 0,0:07:21.09,0:07:25.02,1080P-sgbd-42,,0,0,0,,It's got more life points than the others. You have to hit it twice.
-Dialogue: 0,0:07:21.09,0:07:25.02,1080P-sgsm-63,,0,0,0,,它的生命值比其他的多 你必须要命中它两次
-Dialogue: 0,0:07:26.16,0:07:28.79,1080P-sgbd-42,,0,0,0,,His lasers are distracting me. What's happening?
-Dialogue: 0,0:07:26.16,0:07:28.79,1080P-sgsm-63,,0,0,0,,他的激光吸引了我的注意力 发生了什么事？
-Dialogue: 0,0:07:30.61,0:07:32.92,1080P-sgbd-42,,0,0,0,,Ulrich. You will pay for this, Bloks.
-Dialogue: 0,0:07:30.61,0:07:32.92,1080P-sgsm-63,,0,0,0,,Ulrich 你会为此付出代价的 方文
-Dialogue: 0,0:07:33.70,0:07:34.66,1080P-sgbd-42,,0,0,0,,Laser arrows.
-Dialogue: 0,0:07:33.70,0:07:34.66,1080P-sgsm-63,,0,0,0,,激光箭
-Dialogue: 0,0:07:39.72,0:07:41.00,1080P-sgbd-42,,0,0,0,,What happened to the others?
-Dialogue: 0,0:07:39.72,0:07:41.00,1080P-sgsm-63,,0,0,0,,其他人怎么了？
-Dialogue: 0,0:07:42.02,0:07:45.36,1080P-sgbd-42,,0,0,0,,I'm not sure, I don't know but it doesn't affect you.
-Dialogue: 0,0:07:42.02,0:07:45.36,1080P-sgsm-63,,0,0,0,,我不确定 我不知道 但这并不影响你
-Dialogue: 0,0:07:45.59,0:07:48.43,1080P-sgbd-42,,0,0,0,,Come on Aelita, you are our last hope.
-Dialogue: 0,0:07:45.59,0:07:48.43,1080P-sgsm-63,,0,0,0,,来吧Aelita 你是我们最后的希望
-Dialogue: 0,0:07:49.05,0:07:50.06,1080P-sgbd-42,,0,0,0,,You can do it.
-Dialogue: 0,0:07:49.05,0:07:50.06,1080P-sgsm-63,,0,0,0,,你能做到的
-Dialogue: 0,0:07:50.18,0:07:51.61,1080P-sgbd-42,,0,0,0,,Show me what you're made of.
-Dialogue: 0,0:07:50.18,0:07:51.61,1080P-sgsm-63,,0,0,0,,你肯定可以做到
-Dialogue: 0,0:07:54.38,0:07:55.26,1080P-sgbd-42,,0,0,0,,Energy field!
-Dialogue: 0,0:07:54.38,0:07:55.26,1080P-sgsm-63,,0,0,0,,能量球
-Dialogue: 0,0:07:58.92,0:08:00.54,1080P-sgbd-42,,0,0,0,,Well done my angel!
-Dialogue: 0,0:07:58.92,0:08:00.54,1080P-sgsm-63,,0,0,0,,干得漂亮 我的天使
-Dialogue: 0,0:08:01.00,0:08:03.75,1080P-sgbd-42,,0,0,0,,Now go to the Celestial Dome and make the connection.
-Dialogue: 0,0:08:01.00,0:08:03.75,1080P-sgsm-63,,0,0,0,,现在去外域 进行连接
-Dialogue: 0,0:08:04.04,0:08:05.42,1080P-sgbd-42,,0,0,0,,I believe in you, my daughter.
-Dialogue: 0,0:08:04.04,0:08:05.42,1080P-sgsm-63,,0,0,0,,我相信你 我的女儿
-Dialogue: 0,0:08:06.24,0:08:09.14,1080P-sgbd-42,,0,0,0,,First things first, let's deactivate the tower!
-Dialogue: 0,0:08:06.24,0:08:09.14,1080P-sgsm-63,,0,0,0,,首先 让我们锁定圆塔
-Dialogue: 0,0:08:42.70,0:08:44.23,1080P-sgbd-42,,0,0,0,,Tower deactivated.
-Dialogue: 0,0:08:42.70,0:08:44.23,1080P-sgsm-63,,0,0,0,,圆塔锁定了
-Dialogue: 0,0:08:47.56,0:08:50.59,1080P-sgbd-42,,0,0,0,,Well done, sweetheart, now make the connection.
-Dialogue: 0,0:08:47.56,0:08:50.59,1080P-sgsm-63,,0,0,0,,干得好 亲爱的 现在进行连接
-Dialogue: 0,0:08:51.08,0:08:53.22,1080P-sgbd-42,,0,0,0,,Quick hurry up, we can't lose more time.
-Dialogue: 0,0:08:51.08,0:08:53.22,1080P-sgsm-63,,0,0,0,,快点儿 我们不能再浪费时间了
-Dialogue: 0,0:08:54.06,0:08:56.18,1080P-sgbd-42,,0,0,0,,Don't worry, I'm at the Celestial Dome.
-Dialogue: 0,0:08:54.06,0:08:56.18,1080P-sgsm-63,,0,0,0,,别担心 我已经到外域了
-Dialogue: 0,0:08:57.32,0:08:59.59,1080P-sgbd-42,,0,0,0,,I'm on the interface, Daddy. I'm starting.
-Dialogue: 0,0:08:57.32,0:08:59.59,1080P-sgsm-63,,0,0,0,,我打开界面了 爸爸 我开始了
-Dialogue: 0,0:09:00.53,0:09:03.15,1080P-sgbd-42,,0,0,0,,You can do it, Aelita. You can do it.
-Dialogue: 0,0:09:00.53,0:09:03.15,1080P-sgsm-63,,0,0,0,,你能做到的 Aelita 你能做到的
-Dialogue: 0,0:09:05.70,0:09:06.85,1080P-sgbd-42,,0,0,0,,Scyphozoa!
-Dialogue: 0,0:09:05.70,0:09:06.85,1080P-sgsm-63,,0,0,0,,钵水母纲
-Dialogue: 0,0:09:07.74,0:09:10.26,1080P-sgbd-42,,0,0,0,,What? Aelita, get out of there immediately.
-Dialogue: 0,0:09:07.74,0:09:10.26,1080P-sgsm-63,,0,0,0,,什么？Aelita 立即离开那里
-Dialogue: 0,0:09:10.82,0:09:11.78,1080P-sgbd-42,,0,0,0,,Abort the mission.
-Dialogue: 0,0:09:10.82,0:09:11.78,1080P-sgsm-63,,0,0,0,,中止任务
-Dialogue: 0,0:09:12.12,0:09:13.90,1080P-sgbd-42,,0,0,0,,No, we are so close.
-Dialogue: 0,0:09:12.12,0:09:13.90,1080P-sgsm-63,,0,0,0,,不 就快做完了
-Dialogue: 0,0:09:15.14,0:09:17.70,1080P-sgbd-42,,0,0,0,,No way, Aelita, I believe in you.
-Dialogue: 0,0:09:15.14,0:09:17.70,1080P-sgsm-63,,0,0,0,,不要这样 Aelita 我相信你
-Dialogue: 0,0:09:18.18,0:09:19.51,1080P-sgbd-42,,0,0,0,,You can do this.
-Dialogue: 0,0:09:18.18,0:09:19.51,1080P-sgsm-63,,0,0,0,,你可以做到这一点
-Dialogue: 0,0:09:21.20,0:09:23.62,1080P-sgbd-42,,0,0,0,,You're right, I can do this.
-Dialogue: 0,0:09:21.20,0:09:23.62,1080P-sgsm-63,,0,0,0,,你是对的 我可以做到这一点
-Dialogue: 0,0:09:24.26,0:09:26.52,1080P-sgbd-42,,0,0,0,,No more running from the Scyphozoa. It's enough!
-Dialogue: 0,0:09:24.26,0:09:26.52,1080P-sgsm-63,,0,0,0,,不要再逃避钵水母纲了 已经够了
-Dialogue: 0,0:09:27.28,0:09:29.82,1080P-sgbd-42,,0,0,0,,Take this one of, you ugly jellyfish.
-Dialogue: 0,0:09:27.28,0:09:29.82,1080P-sgsm-63,,0,0,0,,吃吃这个 你这个丑陋的水母
-Dialogue: 0,0:09:36.90,0:09:39.54,1080P-sgbd-42,,0,0,0,,I can't believe this, you did it, Aelita.
-Dialogue: 0,0:09:36.90,0:09:39.54,1080P-sgsm-63,,0,0,0,,难以置信 你做到了 Aelita
-Dialogue: 0,0:09:40.24,0:09:44.76,1080P-sgbd-42,,0,0,0,,Well done, sweetheart, I was so afraid and you did it.
-Dialogue: 0,0:09:40.24,0:09:44.76,1080P-sgsm-63,,0,0,0,,干得好 亲爱的 我非常担心你 但你做到了
-Dialogue: 0,0:09:45.06,0:09:47.36,1080P-sgbd-42,,0,0,0,,Oh now make the connection.
-Dialogue: 0,0:09:45.06,0:09:47.36,1080P-sgsm-63,,0,0,0,,哦 现在把它连接起来
-Dialogue: 0,0:09:47.36,0:09:48.42,1080P-sgbd-42,,0,0,0,,Come on, hurry up!
-Dialogue: 0,0:09:47.36,0:09:48.42,1080P-sgsm-63,,0,0,0,,来吧 快点
-Dialogue: 0,0:09:50.88,0:09:53.09,1080P-sgbd-42,,0,0,0,,Thanks Dad, oh Okay.
-Dialogue: 0,0:09:50.88,0:09:53.09,1080P-sgsm-63,,0,0,0,,谢谢爸爸 哦 好的
-Dialogue: 0,0:09:53.81,0:09:54.90,1080P-sgbd-42,,0,0,0,,The connection was made.
-Dialogue: 0,0:09:53.81,0:09:54.90,1080P-sgsm-63,,0,0,0,,连接成功了
-Dialogue: 0,0:09:55.28,0:09:56.73,1080P-sgbd-42,,0,0,0,,We've fixed the program!
-Dialogue: 0,0:09:55.28,0:09:56.73,1080P-sgsm-63,,0,0,0,,我们已经修复了这个程序
-Dialogue: 0,0:09:57.16,0:09:59.18,1080P-sgbd-42,,0,0,0,,Well we all know what's next.
-Dialogue: 0,0:09:57.16,0:09:59.18,1080P-sgsm-63,,0,0,0,,好了 我们都知道接下来是什么
-Dialogue: 0,0:10:01.36,0:10:04.76,1080P-sgbd-42,,0,0,0,,Return to the past now.
-Dialogue: 0,0:10:01.36,0:10:04.76,1080P-sgsm-63,,0,0,0,,马上时间倒转
-Dialogue: 0,0:10:21.80,0:10:23.81,1080P-sgbd-42,,0,0,0,,But what's this red bubble?
-Dialogue: 0,0:10:21.80,0:10:23.81,1080P-sgsm-63,,0,0,0,,但是这个红色的泡泡是什么？
-Dialogue: 0,0:10:24.56,0:10:27.64,1080P-sgbd-42,,0,0,0,,Don't answer. I've got this covered. I know the answer.
-Dialogue: 0,0:10:24.56,0:10:27.64,1080P-sgsm-63,,0,0,0,,不用回答 我已经把这个问题解决了 我知道答案
-Dialogue: 0,0:10:28.09,0:10:33.67,1080P-sgbd-42,,0,0,0,,With my telepathic powers..my beautiful powers, I'll tell you the answer in no time.
-Dialogue: 0,0:10:28.09,0:10:33.67,1080P-sgsm-63,,0,0,0,,以我的心灵感应能力......我美丽的能力 我很快就能告诉你答案
-Dialogue: 0,0:10:33.93,0:10:36.70,1080P-sgbd-42,,0,0,0,,I see the Light, I know you see it too.
-Dialogue: 0,0:10:33.93,0:10:36.70,1080P-sgsm-63,,0,0,0,,我看到了亮光 我知道你也看到了
-Dialogue: 0,0:10:36.98,0:10:41.33,1080P-sgbd-42,,0,0,0,,The thing you're looking for is called "time stopper" Haha.
-Dialogue: 0,0:10:36.98,0:10:41.33,1080P-sgsm-63,,0,0,0,,你要找的东西叫时间停止器 哈哈
-Dialogue: 0,0:10:41.59,0:10:44.12,1080P-sgbd-42,,0,0,0,,That's it. How did you do it?
-Dialogue: 0,0:10:41.59,0:10:44.12,1080P-sgsm-63,,0,0,0,,就这样吧 你是怎么做到的？
-Dialogue: 0,0:10:44.54,0:10:46.81,1080P-sgbd-42,,0,0,0,,I might have seen it in the screens.
-Dialogue: 0,0:10:44.54,0:10:46.81,1080P-sgsm-63,,0,0,0,,我可能以前在电影里看到过这个名字
-Dialogue: 0,0:10:48.62,0:10:50.81,1080P-sgbd-42,,0,0,0,,But how was XANA capable of doing this?
-Dialogue: 0,0:10:48.62,0:10:50.81,1080P-sgsm-63,,0,0,0,,但XANA怎么有能力做到这一点？
-Dialogue: 0,0:10:51.34,0:10:54.39,1080P-sgbd-42,,0,0,0,,He probably found a way to control time again.
-Dialogue: 0,0:10:51.34,0:10:54.39,1080P-sgsm-63,,0,0,0,,他可能又找到了一个控制时间的方法
-Dialogue: 0,0:10:54.66,0:10:57.58,1080P-sgbd-42,,0,0,0,,Wait, that means that he can do that every time?
-Dialogue: 0,0:10:54.66,0:10:57.58,1080P-sgsm-63,,0,0,0,,等等 这意味着他每次都能这样做？
-Dialogue: 0,0:10:57.76,0:11:00.70,1080P-sgbd-42,,0,0,0,,Thankfully no. I've locked down all the ways to control time.
-Dialogue: 0,0:10:57.76,0:11:00.70,1080P-sgsm-63,,0,0,0,,幸好没有 我已经锁定了所有控制时间的方法
-Dialogue: 0,0:11:01.00,0:11:02.66,1080P-sgbd-42,,0,0,0,,Well, good news for us then.
-Dialogue: 0,0:11:01.00,0:11:02.66,1080P-sgsm-63,,0,0,0,,那么 对我们来说是个好消息了
-Dialogue: 0,0:11:03.71,0:11:05.09,1080P-sgbd-42,,0,0,0,,What will we do now?
-Dialogue: 0,0:11:03.71,0:11:05.09,1080P-sgsm-63,,0,0,0,,我们现在要做什么？
-Dialogue: 0,0:11:05.59,0:11:06.35,1080P-sgbd-42,,0,0,0,,Any ideas?
-Dialogue: 0,0:11:05.59,0:11:06.35,1080P-sgsm-63,,0,0,0,,有什么想法吗？
-Dialogue: 0,0:11:06.85,0:11:10.48,1080P-sgbd-42,,0,0,0,,We will find a way to destroy XANA once and for all.
-Dialogue: 0,0:11:06.85,0:11:10.48,1080P-sgsm-63,,0,0,0,,我们将找到一种方法 一劳永逸地摧毁XANA
-Dialogue: 0,0:11:11.02,0:11:13.68,1080P-sgbd-42,,0,0,0,,I just wonder like I always do.
-Dialogue: 0,0:11:11.02,0:11:13.68,1080P-sgsm-63,,0,0,0,,我现在总是在想这件事
-Dialogue: 0,0:11:14.53,0:11:18.22,1080P-sgbd-42,,0,0,0,,Meanwhile, what is he going to do?
-Dialogue: 0,0:11:14.53,0:11:18.22,1080P-sgsm-63,,0,0,0,,以及 他要做什么呢？
-Dialogue: 0,0:11:19.02,0:11:24.58,1080P-sgbd-42,,0,0,0,,I don't know but we saw it today. It just can't get any worse, can it?
-Dialogue: 0,0:11:19.02,0:11:24.58,1080P-sgsm-63,,0,0,0,,我不知道 但我们今天看到了 它不可能变得更糟糕 不是吗？
+Dialogue: 0,0:00:51.98,0:00:54.31,1080P-sgbd-42,,0,0,0,,{\blur4}Hey Odd, do you know where are the others?
+Dialogue: 0,0:00:51.98,0:00:54.31,1080P-sgsm-63,,0,0,0,,{\blur4}嘿 Odd 你知道其他人在哪里吗？
+Dialogue: 0,0:00:54.56,0:00:56.46,1080P-sgbd-42,,0,0,0,,{\blur4}The school is literally empty.
+Dialogue: 0,0:00:54.56,0:00:56.46,1080P-sgsm-63,,0,0,0,,{\blur4}学校简直是空的
+Dialogue: 0,0:00:57.10,0:01:02.42,1080P-sgbd-42,,0,0,0,,{\blur4}Don't worry, I spoke to Jeremy. All of them are waiting for us at the cafe.
+Dialogue: 0,0:00:57.10,0:01:02.42,1080P-sgsm-63,,0,0,0,,{\blur4}别担心 我跟Jeremy问过了 他们都在咖啡馆里等着我们
+Dialogue: 0,0:01:03.38,0:01:06.88,1080P-sgbd-42,,0,0,0,,{\blur4}I still can't believe that we really saved Franz Hopper.
+Dialogue: 0,0:01:03.38,0:01:06.88,1080P-sgsm-63,,0,0,0,,{\blur4}我还是不相信我们真的救了Franz Hopper
+Dialogue: 0,0:01:07.16,0:01:08.90,1080P-sgbd-42,,0,0,0,,{\blur4}Everything's easier now.
+Dialogue: 0,0:01:07.16,0:01:08.90,1080P-sgsm-63,,0,0,0,,{\blur4}现在一切都变得简单了
+Dialogue: 0,0:01:09.22,0:01:11.00,1080P-sgbd-42,,0,0,0,,{\blur4}And Aelita is so happy
+Dialogue: 0,0:01:09.22,0:01:11.00,1080P-sgsm-63,,0,0,0,,{\blur4}而且Aelita也很高兴
+Dialogue: 0,0:01:11.00,0:01:13.56,1080P-sgbd-42,,0,0,0,,{\blur4}That's right buddy, luck is on our side
+Dialogue: 0,0:01:11.00,0:01:13.56,1080P-sgsm-63,,0,0,0,,{\blur4}这就对了 伙计 我们还是很幸运的
+Dialogue: 0,0:01:13.84,0:01:15.76,1080P-sgbd-42,,0,0,0,,{\blur4}Well for the first time.
+Dialogue: 0,0:01:13.84,0:01:15.76,1080P-sgsm-63,,0,0,0,,{\blur4}好吧 这还是第一次运气这么好
+Dialogue: 0,0:01:23.76,0:01:27.17,1080P-sgbd-42,,0,0,0,,{\blur4}Okay Einstein, at same time, what's our next mission?
+Dialogue: 0,0:01:23.76,0:01:27.17,1080P-sgsm-63,,0,0,0,,{\blur4}好了 爱因斯坦 此时此刻 我们的下一个任务是什么？
+Dialogue: 0,0:01:28.17,0:01:30.57,1080P-sgbd-42,,0,0,0,,{\blur4}Your next mission is really simple actually.
+Dialogue: 0,0:01:28.17,0:01:30.57,1080P-sgsm-63,,0,0,0,,{\blur4}你们的下一个任务其实很简单
+Dialogue: 0,0:01:31.50,0:01:35.87,1080P-sgbd-42,,0,0,0,,{\blur4}Basically, you'll go back to that big sector and you will destroy it.
+Dialogue: 0,0:01:31.50,0:01:35.87,1080P-sgsm-63,,0,0,0,,{\blur4}基本上来说 你们要回到那个大区 并摧毁它
+Dialogue: 0,0:01:37.02,0:01:41.80,1080P-sgbd-42,,0,0,0,,{\blur4}I've got really weird feelings about this sector, I wonder where its supercomputer is.
+Dialogue: 0,0:01:37.02,0:01:41.80,1080P-sgsm-63,,0,0,0,,{\blur4}我觉得这个区域很奇怪 我想知道它的超级计算机在哪里
+Dialogue: 0,0:01:42.00,0:01:44.31,1080P-sgbd-42,,0,0,0,,{\blur4}Well we'll find out soon enough.
+Dialogue: 0,0:01:42.00,0:01:44.31,1080P-sgsm-63,,0,0,0,,{\blur4}嗯 我们很快就会知道了
+Dialogue: 0,0:01:45.08,0:01:47.30,1080P-sgbd-42,,0,0,0,,{\blur4}That's true and I'm afraid.
+Dialogue: 0,0:01:45.08,0:01:47.30,1080P-sgsm-63,,0,0,0,,{\blur4}这倒是没错 但我很害怕
+Dialogue: 0,0:01:48.02,0:01:50.00,1080P-sgbd-42,,0,0,0,,{\blur4}Hey, how is Franz Hopper feeling?
+Dialogue: 0,0:01:48.02,0:01:50.00,1080P-sgsm-63,,0,0,0,,{\blur4}嘿 Franz Hopper现在感觉怎么样？
+Dialogue: 0,0:01:53.02,0:01:58.30,1080P-sgbd-42,,0,0,0,,{\blur4}He's Okay, he's at the factory at the moment, working on a new program for the supercomputer
+Dialogue: 0,0:01:53.02,0:01:58.30,1080P-sgsm-63,,0,0,0,,{\blur4}他很好 他现在在工厂里 正在为超级计算机开发一个新程序
+Dialogue: 0,0:01:59.26,0:02:01.46,1080P-sgbd-42,,0,0,0,,{\blur4}Cool, what kind of program is that?
+Dialogue: 0,0:01:59.26,0:02:01.46,1080P-sgsm-63,,0,0,0,,{\blur4}酷 那是什么样的程序？
+Dialogue: 0,0:02:01.86,0:02:02.78,1080P-sgbd-42,,0,0,0,,{\blur4}Marabounta?
+Dialogue: 0,0:02:01.86,0:02:02.78,1080P-sgsm-63,,0,0,0,,{\blur4}行军蚁？
+Dialogue: 0,0:02:02.94,0:02:08.69,1080P-sgbd-42,,0,0,0,,{\blur4}Haha, very funny but no, thanks to the program he's creating, you'll have more life points
+Dialogue: 0,0:02:02.94,0:02:08.69,1080P-sgsm-63,,0,0,0,,{\blur4}哈哈 非常有趣 但不是 得益于他正在创建的程序 你将有更多的生命值
+Dialogue: 0,0:02:09.32,0:02:14.14,1080P-sgbd-42,,0,0,0,,{\blur4}More life points means longer fights and we will complete missions way easier where victories.
+Dialogue: 0,0:02:09.32,0:02:14.14,1080P-sgsm-63,,0,0,0,,{\blur4}更多的生命值意味着更长的战斗时间 我们将更容易完成任务 取得胜利
+Dialogue: 0,0:02:14.17,0:02:17.46,1080P-sgbd-42,,0,0,0,,{\blur4}Also means bye bye XANA as soon as possible.
+Dialogue: 0,0:02:14.17,0:02:17.46,1080P-sgsm-63,,0,0,0,,{\blur4}同时也意味着可以尽快地告别XANA
+Dialogue: 0,0:02:17.88,0:02:20.58,1080P-sgbd-42,,0,0,0,,{\blur4}And all of these thanks to my father.
+Dialogue: 0,0:02:17.88,0:02:20.58,1080P-sgsm-63,,0,0,0,,{\blur4}这些都要感谢我父亲
+Dialogue: 0,0:02:22.14,0:02:24.61,1080P-sgbd-42,,0,0,0,,{\blur4}And your virtualization time will be shorter.
+Dialogue: 0,0:02:22.14,0:02:24.61,1080P-sgsm-63,,0,0,0,,{\blur4}而且你的虚拟化时间会更短
+Dialogue: 0,0:02:25.26,0:02:27.34,1080P-sgbd-42,,0,0,0,,{\blur4}Oh thanks for the reminder by the way,
+Dialogue: 0,0:02:25.26,0:02:27.34,1080P-sgsm-63,,0,0,0,,{\blur4}哦 谢谢你的提醒 顺便说一下
+Dialogue: 0,0:02:27.39,0:02:31.57,1080P-sgbd-42,,0,0,0,,{\blur4}did you know that now we don't have to wait 12 hours to get back to Lyoko?
+Dialogue: 0,0:02:27.39,0:02:31.57,1080P-sgsm-63,,0,0,0,,{\blur4}你知道吗 现在我们不用再等12个小时才能回到Lyoko了
+Dialogue: 0,0:02:31.68,0:02:34.42,1080P-sgbd-42,,0,0,0,,{\blur4}This program will make the waiting time much shorter.
+Dialogue: 0,0:02:31.68,0:02:34.42,1080P-sgsm-63,,0,0,0,,{\blur4}这个程序会让等待的时间大大缩短
+Dialogue: 0,0:03:23.30,0:03:25.53,1080P-sgbd-42,,0,0,0,,{\blur4}Oh no, XANA's attacking.
+Dialogue: 0,0:03:23.30,0:03:25.53,1080P-sgsm-63,,0,0,0,,{\blur4}哦 不 XANA正在发起攻击
+Dialogue: 0,0:03:25.87,0:03:26.66,1080P-sgbd-42,,0,0,0,,{\blur4}Not now.
+Dialogue: 0,0:03:25.87,0:03:26.66,1080P-sgsm-63,,0,0,0,,{\blur4}别现在来啊
+Dialogue: 0,0:03:27.25,0:03:29.33,1080P-sgbd-42,,0,0,0,,{\blur4}Ah, what are those windows?
+Dialogue: 0,0:03:27.25,0:03:29.33,1080P-sgsm-63,,0,0,0,,{\blur4}啊 那些窗口是什么？
+Dialogue: 0,0:03:29.40,0:03:31.41,1080P-sgbd-42,,0,0,0,,{\blur4}Is it the return to the past program?
+Dialogue: 0,0:03:29.40,0:03:31.41,1080P-sgsm-63,,0,0,0,,{\blur4}是时间倒转的程序吗？
+Dialogue: 0,0:03:32.06,0:03:33.06,1080P-sgbd-42,,0,0,0,,{\blur4}What's happening?
+Dialogue: 0,0:03:32.06,0:03:33.06,1080P-sgsm-63,,0,0,0,,{\blur4}发生了什么事？
+Dialogue: 0,0:03:33.74,0:03:36.38,1080P-sgbd-42,,0,0,0,,{\blur4}This light, what's happening?
+Dialogue: 0,0:03:33.74,0:03:36.38,1080P-sgsm-63,,0,0,0,,{\blur4}这道光 发生了什么？
+Dialogue: 0,0:04:18.70,0:04:22.62,1080P-sgbd-42,,0,0,0,,{\blur4}Huh, Did you all feel this. Einstein, what was that?
+Dialogue: 0,0:04:18.70,0:04:22.62,1080P-sgsm-63,,0,0,0,,{\blur4}嗯 你们都感觉到了吗 爱因斯坦 那是什么？
+Dialogue: 0,0:04:22.98,0:04:25.08,1080P-sgbd-42,,0,0,0,,{\blur4}It felt like the Return to the Past.
+Dialogue: 0,0:04:22.98,0:04:25.08,1080P-sgsm-63,,0,0,0,,{\blur4}感觉像是发起了时间倒转
+Dialogue: 0,0:04:25.08,0:04:25.31,1080P-sgbd-42,,0,0,0,,{\blur4}But-
+Dialogue: 0,0:04:25.08,0:04:25.31,1080P-sgsm-63,,0,0,0,,{\blur4}但是...
+Dialogue: 0,0:04:25.34,0:04:26.64,1080P-sgbd-42,,0,0,0,,{\blur4}But it was red.
+Dialogue: 0,0:04:25.34,0:04:26.64,1080P-sgsm-63,,0,0,0,,{\blur4}但它是红色的
+Dialogue: 0,0:04:26.78,0:04:27.90,1080P-sgbd-42,,0,0,0,,{\blur4}Something's wrong.
+Dialogue: 0,0:04:26.78,0:04:27.90,1080P-sgsm-63,,0,0,0,,{\blur4}有点不对劲
+Dialogue: 0,0:04:28.54,0:04:29.58,1080P-sgbd-42,,0,0,0,,{\blur4}And I don't like it.
+Dialogue: 0,0:04:28.54,0:04:29.58,1080P-sgsm-63,,0,0,0,,{\blur4}而且我不喜欢它
+Dialogue: 0,0:04:30.44,0:04:35.62,1080P-sgbd-42,,0,0,0,,{\blur4}Wait guys, this is more than just a return to the past. Look at the people.
+Dialogue: 0,0:04:30.44,0:04:35.62,1080P-sgsm-63,,0,0,0,,{\blur4}等等 伙计们 这不仅仅是时间倒转这么简单 看看这些人
+Dialogue: 0,0:04:38.68,0:04:39.43,1080P-sgbd-42,,0,0,0,,{\blur4}They all froze.
+Dialogue: 0,0:04:38.68,0:04:39.43,1080P-sgsm-63,,0,0,0,,{\blur4}他们都停住了
+Dialogue: 0,0:04:40.16,0:04:41.83,1080P-sgbd-42,,0,0,0,,{\blur4}I think you're all missing a question.
+Dialogue: 0,0:04:40.16,0:04:41.83,1080P-sgsm-63,,0,0,0,,{\blur4}我想你们都忽略了一个问题
+Dialogue: 0,0:04:42.42,0:04:44.47,1080P-sgbd-42,,0,0,0,,{\blur4}Why aren't we being affected by this thing too?
+Dialogue: 0,0:04:42.42,0:04:44.47,1080P-sgsm-63,,0,0,0,,{\blur4}为什么我们没有被这个东西影响？
+Dialogue: 0,0:04:45.18,0:04:49.39,1080P-sgbd-42,,0,0,0,,{\blur4}For the very same reason, we're not affected by the normal return to the past.
+Dialogue: 0,0:04:45.18,0:04:49.39,1080P-sgsm-63,,0,0,0,,{\blur4}正是因为同样的情况 我们没有被正常的时间倒转程序所影响
+Dialogue: 0,0:04:50.10,0:04:52.12,1080P-sgbd-42,,0,0,0,,{\blur4}This is no time to drag your feet.
+Dialogue: 0,0:04:50.10,0:04:52.12,1080P-sgsm-63,,0,0,0,,{\blur4}现在没时间拖沓了
+Dialogue: 0,0:04:52.49,0:04:54.91,1080P-sgbd-42,,0,0,0,,{\blur4}Let's go, we can't lose more time.
+Dialogue: 0,0:04:52.49,0:04:54.91,1080P-sgsm-63,,0,0,0,,{\blur4}我们行动吧 不能再浪费时间了
+Dialogue: 0,0:04:56.63,0:04:58.26,1080P-sgbd-42,,0,0,0,,{\blur4}Father, what happened?
+Dialogue: 0,0:04:56.63,0:04:58.26,1080P-sgsm-63,,0,0,0,,{\blur4}父亲 发生了什么事？
+Dialogue: 0,0:04:58.86,0:05:00.18,1080P-sgbd-42,,0,0,0,,{\blur4}Is everything OK there?
+Dialogue: 0,0:04:58.86,0:05:00.18,1080P-sgsm-63,,0,0,0,,{\blur4}那里一切正常吗？
+Dialogue: 0,0:05:00.32,0:05:03.98,1080P-sgbd-42,,0,0,0,,{\blur4}XANA activated a tower and changed the return to the past program.
+Dialogue: 0,0:05:00.32,0:05:03.98,1080P-sgsm-63,,0,0,0,,{\blur4}XANA激活了一座圆塔 改变了时间倒转的程序
+Dialogue: 0,0:05:04.06,0:05:06.25,1080P-sgbd-42,,0,0,0,,{\blur4}Time has stopped all around the world.
+Dialogue: 0,0:05:04.06,0:05:06.25,1080P-sgsm-63,,0,0,0,,{\blur4}世界各地的时间都停止了
+Dialogue: 0,0:05:06.92,0:05:10.38,1080P-sgbd-42,,0,0,0,,{\blur4}Oh no, this is bad... the nuclear power plants need people to work.
+Dialogue: 0,0:05:06.92,0:05:10.38,1080P-sgsm-63,,0,0,0,,{\blur4}哦 不 这很糟糕......核电站需要有人去工作
+Dialogue: 0,0:05:10.42,0:05:11.47,1080P-sgbd-42,,0,0,0,,{\blur4}This is a disaster!
+Dialogue: 0,0:05:10.42,0:05:11.47,1080P-sgsm-63,,0,0,0,,{\blur4}这是一场灾难
+Dialogue: 0,0:05:12.45,0:05:14.94,1080P-sgbd-42,,0,0,0,,{\blur4}That's true, so hurry up and deactivate this tower.
+Dialogue: 0,0:05:12.45,0:05:14.94,1080P-sgsm-63,,0,0,0,,{\blur4}没错 所以赶紧把这个圆塔锁定了
+Dialogue: 0,0:05:15.16,0:05:16.14,1080P-sgbd-42,,0,0,0,,{\blur4}Hurry, Aelita.
+Dialogue: 0,0:05:15.16,0:05:16.14,1080P-sgsm-63,,0,0,0,,{\blur4}快点 Aelita
+Dialogue: 0,0:05:17.68,0:05:21.13,1080P-sgbd-42,,0,0,0,,{\blur4}I'm on my way, Daddy. Hang on a second, I'm coming.
+Dialogue: 0,0:05:17.68,0:05:21.13,1080P-sgsm-63,,0,0,0,,{\blur4}我在路上了 爸爸 等一下 我就来了
+Dialogue: 0,0:05:24.27,0:05:28.46,1080P-sgbd-42,,0,0,0,,{\blur4}We have to be faster or the nuclear power plants can explode.
+Dialogue: 0,0:05:24.27,0:05:28.46,1080P-sgsm-63,,0,0,0,,{\blur4}我们必须更快 否则核电站会爆炸的
+Dialogue: 0,0:05:29.16,0:05:30.09,1080P-sgbd-42,,0,0,0,,{\blur4}So hurry.
+Dialogue: 0,0:05:29.16,0:05:30.09,1080P-sgsm-63,,0,0,0,,{\blur4}所以快点
+Dialogue: 0,0:05:30.52,0:05:33.82,1080P-sgbd-42,,0,0,0,,{\blur4}I'm going, Daddy. Hang on a second...We're nearly there
+Dialogue: 0,0:05:30.52,0:05:33.82,1080P-sgsm-63,,0,0,0,,{\blur4}我这就去 爸爸 等一下 我们快到了
+Dialogue: 0,0:06:19.18,0:06:20.07,1080P-sgbd-42,,0,0,0,,{\blur4}Transfer Yumi.
+Dialogue: 0,0:06:19.18,0:06:20.07,1080P-sgsm-63,,0,0,0,,{\blur4}传送Yumi
+Dialogue: 0,0:06:21.78,0:06:23.04,1080P-sgbd-42,,0,0,0,,{\blur4}Transfer Aelita.
+Dialogue: 0,0:06:21.78,0:06:23.04,1080P-sgsm-63,,0,0,0,,{\blur4}传送Aelita
+Dialogue: 0,0:06:24.46,0:06:25.89,1080P-sgbd-42,,0,0,0,,{\blur4}Transfer Ulrich.
+Dialogue: 0,0:06:24.46,0:06:25.89,1080P-sgsm-63,,0,0,0,,{\blur4}传送Ulrich
+Dialogue: 0,0:06:27.74,0:06:28.75,1080P-sgbd-42,,0,0,0,,{\blur4}Transfer Odd.
+Dialogue: 0,0:06:27.74,0:06:28.75,1080P-sgsm-63,,0,0,0,,{\blur4}传送Odd
+Dialogue: 0,0:06:29.42,0:06:31.26,1080P-sgbd-42,,0,0,0,,{\blur4}Scanner and Virtualization!
+Dialogue: 0,0:06:29.42,0:06:31.26,1080P-sgsm-63,,0,0,0,,{\blur4}扫描并虚拟化
+Dialogue: 0,0:06:38.80,0:06:41.56,1080P-sgbd-42,,0,0,0,,{\blur4}I've located the tower. It's in the middle of the maze.
+Dialogue: 0,0:06:38.80,0:06:41.56,1080P-sgsm-63,,0,0,0,,{\blur4}我已经找到了那座圆塔 它在迷宫的中间
+Dialogue: 0,0:06:41.56,0:06:42.89,1080P-sgbd-42,,0,0,0,,{\blur4}Go and deactivate it.
+Dialogue: 0,0:06:41.56,0:06:42.89,1080P-sgsm-63,,0,0,0,,{\blur4}去把它锁定吧
+Dialogue: 0,0:06:43.56,0:06:48.78,1080P-sgbd-42,,0,0,0,,{\blur4}Meanwhile, Jeremy, I need your help. We have to fix the return to the past program.
+Dialogue: 0,0:06:43.56,0:06:48.78,1080P-sgsm-63,,0,0,0,,{\blur4}同时 Jeremy 我需要你的帮助 我们必须修复时间倒转的程序
+Dialogue: 0,0:06:48.78,0:06:49.88,1080P-sgbd-42,,0,0,0,,{\blur4}I'm on it.
+Dialogue: 0,0:06:48.78,0:06:49.88,1080P-sgsm-63,,0,0,0,,{\blur4}我正在做
+Dialogue: 0,0:06:55.76,0:07:00.78,1080P-sgbd-42,,0,0,0,,{\blur4}Yo Franzy, we found the tower but there's a little big problem.
+Dialogue: 0,0:06:55.76,0:07:00.78,1080P-sgsm-63,,0,0,0,,{\blur4}哟 Franz 我们找到了圆塔 但有一个不小的问题
+Dialogue: 0,0:07:01.62,0:07:05.05,1080P-sgbd-42,,0,0,0,,{\blur4}Ah... rats!! XANA also attacked the virtual map.
+Dialogue: 0,0:07:01.62,0:07:05.05,1080P-sgsm-63,,0,0,0,,{\blur4}啊......糟糕 XANA也攻击了虚拟地图
+Dialogue: 0,0:07:05.18,0:07:07.70,1080P-sgbd-42,,0,0,0,,{\blur4}I don't know what's happening...Would you mind explaining please?
+Dialogue: 0,0:07:05.18,0:07:07.70,1080P-sgsm-63,,0,0,0,,{\blur4}我不知道发生了什么......你能解释一下吗？
+Dialogue: 0,0:07:08.48,0:07:10.75,1080P-sgbd-42,,0,0,0,,{\blur4}Our blok friends are there to visit us
+Dialogue: 0,0:07:08.48,0:07:10.75,1080P-sgsm-63,,0,0,0,,{\blur4}我们的方文朋友来了
+Dialogue: 0,0:07:10.89,0:07:15.16,1080P-sgbd-42,,0,0,0,,{\blur4}but there's a bigger one in the middle, I never saw anything like this before.
+Dialogue: 0,0:07:10.89,0:07:15.16,1080P-sgsm-63,,0,0,0,,{\blur4}但中间有一只更大的 我以前从未见过这样的东西
+Dialogue: 0,0:07:15.40,0:07:17.62,1080P-sgbd-42,,0,0,0,,{\blur4}It doesn't look friendly, that's for sure.
+Dialogue: 0,0:07:15.40,0:07:17.62,1080P-sgsm-63,,0,0,0,,{\blur4}可以肯定地说 它看起来并不友好
+Dialogue: 0,0:07:18.30,0:07:21.06,1080P-sgbd-42,,0,0,0,,{\blur4}I see, it looks like an alpha blok.
+Dialogue: 0,0:07:18.30,0:07:21.06,1080P-sgsm-63,,0,0,0,,{\blur4}我明白了 它看起来像一个阿尔法方文
+Dialogue: 0,0:07:21.09,0:07:25.02,1080P-sgbd-42,,0,0,0,,{\blur4}It's got more life points than the others. You have to hit it twice.
+Dialogue: 0,0:07:21.09,0:07:25.02,1080P-sgsm-63,,0,0,0,,{\blur4}它的生命值比其他的多 你必须要命中它两次
+Dialogue: 0,0:07:26.16,0:07:28.79,1080P-sgbd-42,,0,0,0,,{\blur4}His lasers are distracting me. What's happening?
+Dialogue: 0,0:07:26.16,0:07:28.79,1080P-sgsm-63,,0,0,0,,{\blur4}他的激光吸引了我的注意力 发生了什么事？
+Dialogue: 0,0:07:30.61,0:07:32.92,1080P-sgbd-42,,0,0,0,,{\blur4}Ulrich. You will pay for this, Bloks.
+Dialogue: 0,0:07:30.61,0:07:32.92,1080P-sgsm-63,,0,0,0,,{\blur4}Ulrich 你会为此付出代价的 方文
+Dialogue: 0,0:07:33.70,0:07:34.66,1080P-sgbd-42,,0,0,0,,{\blur4}Laser arrows.
+Dialogue: 0,0:07:33.70,0:07:34.66,1080P-sgsm-63,,0,0,0,,{\blur4}激光箭
+Dialogue: 0,0:07:39.72,0:07:41.00,1080P-sgbd-42,,0,0,0,,{\blur4}What happened to the others?
+Dialogue: 0,0:07:39.72,0:07:41.00,1080P-sgsm-63,,0,0,0,,{\blur4}其他人怎么了？
+Dialogue: 0,0:07:42.02,0:07:45.36,1080P-sgbd-42,,0,0,0,,{\blur4}I'm not sure, I don't know but it doesn't affect you.
+Dialogue: 0,0:07:42.02,0:07:45.36,1080P-sgsm-63,,0,0,0,,{\blur4}我不确定 我不知道 但这并不影响你
+Dialogue: 0,0:07:45.59,0:07:48.43,1080P-sgbd-42,,0,0,0,,{\blur4}Come on Aelita, you are our last hope.
+Dialogue: 0,0:07:45.59,0:07:48.43,1080P-sgsm-63,,0,0,0,,{\blur4}来吧Aelita 你是我们最后的希望
+Dialogue: 0,0:07:49.05,0:07:50.06,1080P-sgbd-42,,0,0,0,,{\blur4}You can do it.
+Dialogue: 0,0:07:49.05,0:07:50.06,1080P-sgsm-63,,0,0,0,,{\blur4}你能做到的
+Dialogue: 0,0:07:50.18,0:07:51.61,1080P-sgbd-42,,0,0,0,,{\blur4}Show me what you're made of.
+Dialogue: 0,0:07:50.18,0:07:51.61,1080P-sgsm-63,,0,0,0,,{\blur4}你肯定可以做到
+Dialogue: 0,0:07:54.38,0:07:55.26,1080P-sgbd-42,,0,0,0,,{\blur4}Energy field!
+Dialogue: 0,0:07:54.38,0:07:55.26,1080P-sgsm-63,,0,0,0,,{\blur4}能量球
+Dialogue: 0,0:07:58.92,0:08:00.54,1080P-sgbd-42,,0,0,0,,{\blur4}Well done my angel!
+Dialogue: 0,0:07:58.92,0:08:00.54,1080P-sgsm-63,,0,0,0,,{\blur4}干得漂亮 我的天使
+Dialogue: 0,0:08:01.00,0:08:03.75,1080P-sgbd-42,,0,0,0,,{\blur4}Now go to the Celestial Dome and make the connection.
+Dialogue: 0,0:08:01.00,0:08:03.75,1080P-sgsm-63,,0,0,0,,{\blur4}现在去外域 进行连接
+Dialogue: 0,0:08:04.04,0:08:05.42,1080P-sgbd-42,,0,0,0,,{\blur4}I believe in you, my daughter.
+Dialogue: 0,0:08:04.04,0:08:05.42,1080P-sgsm-63,,0,0,0,,{\blur4}我相信你 我的女儿
+Dialogue: 0,0:08:06.24,0:08:09.14,1080P-sgbd-42,,0,0,0,,{\blur4}First things first, let's deactivate the tower!
+Dialogue: 0,0:08:06.24,0:08:09.14,1080P-sgsm-63,,0,0,0,,{\blur4}首先 让我们锁定圆塔
+Dialogue: 0,0:08:42.70,0:08:44.23,1080P-sgbd-42,,0,0,0,,{\blur4}Tower deactivated.
+Dialogue: 0,0:08:42.70,0:08:44.23,1080P-sgsm-63,,0,0,0,,{\blur4}圆塔锁定了
+Dialogue: 0,0:08:47.56,0:08:50.59,1080P-sgbd-42,,0,0,0,,{\blur4}Well done, sweetheart, now make the connection.
+Dialogue: 0,0:08:47.56,0:08:50.59,1080P-sgsm-63,,0,0,0,,{\blur4}干得好 亲爱的 现在进行连接
+Dialogue: 0,0:08:51.08,0:08:53.22,1080P-sgbd-42,,0,0,0,,{\blur4}Quick hurry up, we can't lose more time.
+Dialogue: 0,0:08:51.08,0:08:53.22,1080P-sgsm-63,,0,0,0,,{\blur4}快点儿 我们不能再浪费时间了
+Dialogue: 0,0:08:54.06,0:08:56.18,1080P-sgbd-42,,0,0,0,,{\blur4}Don't worry, I'm at the Celestial Dome.
+Dialogue: 0,0:08:54.06,0:08:56.18,1080P-sgsm-63,,0,0,0,,{\blur4}别担心 我已经到外域了
+Dialogue: 0,0:08:57.32,0:08:59.59,1080P-sgbd-42,,0,0,0,,{\blur4}I'm on the interface, Daddy. I'm starting.
+Dialogue: 0,0:08:57.32,0:08:59.59,1080P-sgsm-63,,0,0,0,,{\blur4}我打开界面了 爸爸 我开始了
+Dialogue: 0,0:09:00.53,0:09:03.15,1080P-sgbd-42,,0,0,0,,{\blur4}You can do it, Aelita. You can do it.
+Dialogue: 0,0:09:00.53,0:09:03.15,1080P-sgsm-63,,0,0,0,,{\blur4}你能做到的 Aelita 你能做到的
+Dialogue: 0,0:09:05.70,0:09:06.85,1080P-sgbd-42,,0,0,0,,{\blur4}Scyphozoa!
+Dialogue: 0,0:09:05.70,0:09:06.85,1080P-sgsm-63,,0,0,0,,{\blur4}钵水母纲
+Dialogue: 0,0:09:07.74,0:09:10.26,1080P-sgbd-42,,0,0,0,,{\blur4}What? Aelita, get out of there immediately.
+Dialogue: 0,0:09:07.74,0:09:10.26,1080P-sgsm-63,,0,0,0,,{\blur4}什么？Aelita 立即离开那里
+Dialogue: 0,0:09:10.82,0:09:11.78,1080P-sgbd-42,,0,0,0,,{\blur4}Abort the mission.
+Dialogue: 0,0:09:10.82,0:09:11.78,1080P-sgsm-63,,0,0,0,,{\blur4}中止任务
+Dialogue: 0,0:09:12.12,0:09:13.90,1080P-sgbd-42,,0,0,0,,{\blur4}No, we are so close.
+Dialogue: 0,0:09:12.12,0:09:13.90,1080P-sgsm-63,,0,0,0,,{\blur4}不 就快做完了
+Dialogue: 0,0:09:15.14,0:09:17.70,1080P-sgbd-42,,0,0,0,,{\blur4}No way, Aelita, I believe in you.
+Dialogue: 0,0:09:15.14,0:09:17.70,1080P-sgsm-63,,0,0,0,,{\blur4}不要这样 Aelita 我相信你
+Dialogue: 0,0:09:18.18,0:09:19.51,1080P-sgbd-42,,0,0,0,,{\blur4}You can do this.
+Dialogue: 0,0:09:18.18,0:09:19.51,1080P-sgsm-63,,0,0,0,,{\blur4}你可以做到这一点
+Dialogue: 0,0:09:21.20,0:09:23.62,1080P-sgbd-42,,0,0,0,,{\blur4}You're right, I can do this.
+Dialogue: 0,0:09:21.20,0:09:23.62,1080P-sgsm-63,,0,0,0,,{\blur4}你是对的 我可以做到这一点
+Dialogue: 0,0:09:24.26,0:09:26.52,1080P-sgbd-42,,0,0,0,,{\blur4}No more running from the Scyphozoa. It's enough!
+Dialogue: 0,0:09:24.26,0:09:26.52,1080P-sgsm-63,,0,0,0,,{\blur4}不要再逃避钵水母纲了 已经够了
+Dialogue: 0,0:09:27.28,0:09:29.82,1080P-sgbd-42,,0,0,0,,{\blur4}Take this one of, you ugly jellyfish.
+Dialogue: 0,0:09:27.28,0:09:29.82,1080P-sgsm-63,,0,0,0,,{\blur4}吃吃这个 你这个丑陋的水母
+Dialogue: 0,0:09:36.90,0:09:39.54,1080P-sgbd-42,,0,0,0,,{\blur4}I can't believe this, you did it, Aelita.
+Dialogue: 0,0:09:36.90,0:09:39.54,1080P-sgsm-63,,0,0,0,,{\blur4}难以置信 你做到了 Aelita
+Dialogue: 0,0:09:40.24,0:09:44.76,1080P-sgbd-42,,0,0,0,,{\blur4}Well done, sweetheart, I was so afraid and you did it.
+Dialogue: 0,0:09:40.24,0:09:44.76,1080P-sgsm-63,,0,0,0,,{\blur4}干得好 亲爱的 我非常担心你 但你做到了
+Dialogue: 0,0:09:45.06,0:09:47.36,1080P-sgbd-42,,0,0,0,,{\blur4}Oh now make the connection.
+Dialogue: 0,0:09:45.06,0:09:47.36,1080P-sgsm-63,,0,0,0,,{\blur4}哦 现在把它连接起来
+Dialogue: 0,0:09:47.36,0:09:48.42,1080P-sgbd-42,,0,0,0,,{\blur4}Come on, hurry up!
+Dialogue: 0,0:09:47.36,0:09:48.42,1080P-sgsm-63,,0,0,0,,{\blur4}来吧 快点
+Dialogue: 0,0:09:50.88,0:09:53.09,1080P-sgbd-42,,0,0,0,,{\blur4}Thanks Dad, oh Okay.
+Dialogue: 0,0:09:50.88,0:09:53.09,1080P-sgsm-63,,0,0,0,,{\blur4}谢谢爸爸 哦 好的
+Dialogue: 0,0:09:53.81,0:09:54.90,1080P-sgbd-42,,0,0,0,,{\blur4}The connection was made.
+Dialogue: 0,0:09:53.81,0:09:54.90,1080P-sgsm-63,,0,0,0,,{\blur4}连接成功了
+Dialogue: 0,0:09:55.28,0:09:56.73,1080P-sgbd-42,,0,0,0,,{\blur4}We've fixed the program!
+Dialogue: 0,0:09:55.28,0:09:56.73,1080P-sgsm-63,,0,0,0,,{\blur4}我们已经修复了这个程序
+Dialogue: 0,0:09:57.16,0:09:59.18,1080P-sgbd-42,,0,0,0,,{\blur4}Well we all know what's next.
+Dialogue: 0,0:09:57.16,0:09:59.18,1080P-sgsm-63,,0,0,0,,{\blur4}好了 我们都知道接下来是什么
+Dialogue: 0,0:10:01.36,0:10:04.76,1080P-sgbd-42,,0,0,0,,{\blur4}Return to the past now.
+Dialogue: 0,0:10:01.36,0:10:04.76,1080P-sgsm-63,,0,0,0,,{\blur4}马上时间倒转
+Dialogue: 0,0:10:21.80,0:10:23.81,1080P-sgbd-42,,0,0,0,,{\blur4}But what's this red bubble?
+Dialogue: 0,0:10:21.80,0:10:23.81,1080P-sgsm-63,,0,0,0,,{\blur4}但是这个红色的泡泡是什么？
+Dialogue: 0,0:10:24.56,0:10:27.64,1080P-sgbd-42,,0,0,0,,{\blur4}Don't answer. I've got this covered. I know the answer.
+Dialogue: 0,0:10:24.56,0:10:27.64,1080P-sgsm-63,,0,0,0,,{\blur4}不用回答 我已经把这个问题解决了 我知道答案
+Dialogue: 0,0:10:28.09,0:10:33.67,1080P-sgbd-42,,0,0,0,,{\blur4}With my telepathic powers..my beautiful powers, I'll tell you the answer in no time.
+Dialogue: 0,0:10:28.09,0:10:33.67,1080P-sgsm-63,,0,0,0,,{\blur4}以我的心灵感应能力......我美丽的能力 我很快就能告诉你答案
+Dialogue: 0,0:10:33.93,0:10:36.70,1080P-sgbd-42,,0,0,0,,{\blur4}I see the Light, I know you see it too.
+Dialogue: 0,0:10:33.93,0:10:36.70,1080P-sgsm-63,,0,0,0,,{\blur4}我看到了亮光 我知道你也看到了
+Dialogue: 0,0:10:36.98,0:10:41.33,1080P-sgbd-42,,0,0,0,,{\blur4}The thing you're looking for is called "time stopper" Haha.
+Dialogue: 0,0:10:36.98,0:10:41.33,1080P-sgsm-63,,0,0,0,,{\blur4}你要找的东西叫时间停止器 哈哈
+Dialogue: 0,0:10:41.59,0:10:44.12,1080P-sgbd-42,,0,0,0,,{\blur4}That's it. How did you do it?
+Dialogue: 0,0:10:41.59,0:10:44.12,1080P-sgsm-63,,0,0,0,,{\blur4}就这样吧 你是怎么做到的？
+Dialogue: 0,0:10:44.54,0:10:46.81,1080P-sgbd-42,,0,0,0,,{\blur4}I might have seen it in the screens.
+Dialogue: 0,0:10:44.54,0:10:46.81,1080P-sgsm-63,,0,0,0,,{\blur4}我可能以前在电影里看到过这个名字
+Dialogue: 0,0:10:48.62,0:10:50.81,1080P-sgbd-42,,0,0,0,,{\blur4}But how was XANA capable of doing this?
+Dialogue: 0,0:10:48.62,0:10:50.81,1080P-sgsm-63,,0,0,0,,{\blur4}但XANA怎么有能力做到这一点？
+Dialogue: 0,0:10:51.34,0:10:54.39,1080P-sgbd-42,,0,0,0,,{\blur4}He probably found a way to control time again.
+Dialogue: 0,0:10:51.34,0:10:54.39,1080P-sgsm-63,,0,0,0,,{\blur4}他可能又找到了一个控制时间的方法
+Dialogue: 0,0:10:54.66,0:10:57.58,1080P-sgbd-42,,0,0,0,,{\blur4}Wait, that means that he can do that every time?
+Dialogue: 0,0:10:54.66,0:10:57.58,1080P-sgsm-63,,0,0,0,,{\blur4}等等 这意味着他每次都能这样做？
+Dialogue: 0,0:10:57.76,0:11:00.70,1080P-sgbd-42,,0,0,0,,{\blur4}Thankfully no. I've locked down all the ways to control time.
+Dialogue: 0,0:10:57.76,0:11:00.70,1080P-sgsm-63,,0,0,0,,{\blur4}幸好没有 我已经锁定了所有控制时间的方法
+Dialogue: 0,0:11:01.00,0:11:02.66,1080P-sgbd-42,,0,0,0,,{\blur4}Well, good news for us then.
+Dialogue: 0,0:11:01.00,0:11:02.66,1080P-sgsm-63,,0,0,0,,{\blur4}那么 对我们来说是个好消息了
+Dialogue: 0,0:11:03.71,0:11:05.09,1080P-sgbd-42,,0,0,0,,{\blur4}What will we do now?
+Dialogue: 0,0:11:03.71,0:11:05.09,1080P-sgsm-63,,0,0,0,,{\blur4}我们现在要做什么？
+Dialogue: 0,0:11:05.59,0:11:06.35,1080P-sgbd-42,,0,0,0,,{\blur4}Any ideas?
+Dialogue: 0,0:11:05.59,0:11:06.35,1080P-sgsm-63,,0,0,0,,{\blur4}有什么想法吗？
+Dialogue: 0,0:11:06.85,0:11:10.48,1080P-sgbd-42,,0,0,0,,{\blur4}We will find a way to destroy XANA once and for all.
+Dialogue: 0,0:11:06.85,0:11:10.48,1080P-sgsm-63,,0,0,0,,{\blur4}我们将找到一种方法 一劳永逸地摧毁XANA
+Dialogue: 0,0:11:11.02,0:11:13.68,1080P-sgbd-42,,0,0,0,,{\blur4}I just wonder like I always do.
+Dialogue: 0,0:11:11.02,0:11:13.68,1080P-sgsm-63,,0,0,0,,{\blur4}我现在总是在想这件事
+Dialogue: 0,0:11:14.53,0:11:18.22,1080P-sgbd-42,,0,0,0,,{\blur4}Meanwhile, what is he going to do?
+Dialogue: 0,0:11:14.53,0:11:18.22,1080P-sgsm-63,,0,0,0,,{\blur4}以及 他要做什么呢？
+Dialogue: 0,0:11:19.02,0:11:24.58,1080P-sgbd-42,,0,0,0,,{\blur4}I don't know but we saw it today. It just can't get any worse, can it?
+Dialogue: 0,0:11:19.02,0:11:24.58,1080P-sgsm-63,,0,0,0,,{\blur4}我不知道 但我们今天看到了 它不可能变得更糟糕 不是吗？
