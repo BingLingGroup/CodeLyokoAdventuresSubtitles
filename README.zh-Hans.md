@@ -39,6 +39,7 @@
 [S2E02 重逢](https://youtu.be/Znm87ghp_K0) | [S2E02 重逢](Season%202/Code%20Lyoko%20Adventures%20S2E2%20-%20Reunion.ass)
 [S2E03 时间](https://youtu.be/tAGH0KgXoeg) | [S2E03 时间](Season%202/Code%20Lyoko%20Adventures%20S2E3%20-%20Time.ass)
 [S2E04 灾难](https://youtu.be/3Gsn0kq05pw) | [S2E04 灾难](Season%202/Code%20Lyoko%20Adventures%20S2E4%20-%20Disaster.ass)
+[S2E05 全球攻击](https://youtu.be/9KzGvCbcj84) | [S2E05 全球攻击](Season%202/Code%20Lyoko%20Adventures%20S2E5%20-%20World%20Wide%20Attack.ass)
 
 ## 从github下载单独的文件或者文件夹
 
