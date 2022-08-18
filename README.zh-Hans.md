@@ -41,6 +41,7 @@
 [S2E04 灾难](https://youtu.be/3Gsn0kq05pw) | [S2E04 灾难](Season%202/Code%20Lyoko%20Adventures%20S2E4%20-%20Disaster.ass)
 [S2E05 全球攻击](https://youtu.be/9KzGvCbcj84) | [S2E05 全球攻击](Season%202/Code%20Lyoko%20Adventures%20S2E5%20-%20World%20Wide%20Attack.ass)
 [S2E06 XANA崛起第一部分](https://youtu.be/RpSU0vVL8zQ) | [S2E06 XANA崛起第一部分](Season%202/Code%20Lyoko%20Adventures%20S2E6%20-%20Rising%20Of%20Xana%20part%201.ass)
+[S2E07 XANA崛起第二部分](https://youtu.be/Zoo5jvdIRng) | [S2E07 XANA崛起第二部分](Season%202/Code%20Lyoko%20Adventures%20S2E7%20-%20Rising%20Of%20Xana%20part%202.ass)
 
 ## 从github下载单独的文件或者文件夹
 

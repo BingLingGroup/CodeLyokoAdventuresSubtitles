@@ -41,6 +41,7 @@ Video | Chinese Subtitles
 [S2E04 Disaster](https://youtu.be/3Gsn0kq05pw) | [S2E04 Disaster](Season%202/Code%20Lyoko%20Adventures%20S2E4%20-%20Disaster.ass)
 [S2E05 World Wide Attack](https://youtu.be/9KzGvCbcj84) | [S2E05 World Wide Attack](Season%202/Code%20Lyoko%20Adventures%20S2E5%20-%20World%20Wide%20Attack.ass)
 [S2E06 Rising Of Xana part 1](https://youtu.be/RpSU0vVL8zQ) | [S2E06 Rising Of Xana part 1](Season%202/Code%20Lyoko%20Adventures%20S2E6%20-%20Rising%20Of%20Xana%20part%201.ass)
+[S2E07 Rising Of Xana part 2](https://youtu.be/Zoo5jvdIRng) | [S2E07 Rising Of Xana part 2](Season%202/Code%20Lyoko%20Adventures%20S2E7%20-%20Rising%20Of%20Xana%20part%202.ass)
 
 ## Download single file or directory from github
 
